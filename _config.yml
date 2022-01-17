@@ -11,9 +11,7 @@ url: "https://outfindo.dev" # the base hostname & protocol for your site, e.g. h
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name: Outfindo
 
 # Build settings
 markdown:       kramdown

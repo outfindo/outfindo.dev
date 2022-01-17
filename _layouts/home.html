@@ -2,25 +2,26 @@
 layout: default
 ---
 
-<div class="catalogue">
-  {% for post in site.posts %}
-    {% if post.sticky %}
-      {% include catalogue_item.html sticky='true' %}
-    {% endif %}
-  {% endfor %}
+<div class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-line"></div>
 
-  {% for post in paginator.posts %}
-    {% include catalogue_item.html %}
-  {% endfor %}
+    <span style="font-size: 150%">
+    {{ content }}
+    </span>
 </div>
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
+<div class="catalogue">
+    {% for tag in site.tags %}
+        {% if tag[0] != "Jobs" %}
+            {% continue %}
+        {% endif %}
 
-  <span>{{ paginator.page }}</span>
+        <hr>
+        <h2>We are looking for:</h2>
+
+        {% for post in tag[1] %}
+            {% include catalogue_item.html %}
+        {% endfor %}
+    {% endfor %}
 </div>
