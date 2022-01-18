@@ -17,7 +17,7 @@ permalink: /assigments/create-button-component
 2. commit to [github](https://github.com/) repository
 3. add [Franta](https://github.com/blahafrank) as collaborator
 
-**(aim for as much reusability and readability as possible)**
+---
 
 ## Design:
 [![Button Design](/assets/fe-assigment/button-design.png)](/assets/fe-assigment/button-design.png)
@@ -43,3 +43,7 @@ $color-font-button-secondary-hover: rgba(#FFFBE3, .6);
 $color-font-button-secondary-disabled: #808080;
 $color-font-button-secondary-default: #FFFBE3;
 ```
+
+---
+
+**Aim for as much reusability and readability as possible and if you have any questions, ask [Franta](mailto:franta@outfindo.cz).**
