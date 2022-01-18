@@ -1,19 +1,12 @@
 ---
 layout: default
+title: "Jobs"
+permalink: /jobs/
 ---
 
 <div class="post">
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-line"></div>
-
-    <p>
-        <img src="/assets/bricks/4.jpg">
-    </p>
-    <br>
-
-    <span style="font-size: 150%">
-    {{ content }}
-    </span>
 </div>
 
 <div class="catalogue">
@@ -21,6 +14,8 @@ layout: default
         {% if tag[0] != "Jobs" %}
             {% continue %}
         {% endif %}
+
+        <h2>We are looking for:</h2>
 
         {% for post in tag[1] %}
             {% include catalogue_item.html %}
