@@ -8,8 +8,6 @@ permalink: /team/
 
 These are the people building Outfindo. We believe we are a strong team with a lot of experience and diverse background.
 
-(TODO + add separate cluture page)
-
 <br id="ondrej">
 ![Ondřej Bouda](/assets/team/ondrej.jpeg){:style="text-align: left; height:100px; margin: 0"}
 ## Ondřej Bouda
@@ -77,3 +75,5 @@ These are the people building Outfindo. We believe we are a strong team with a l
 * does user research, collects feedback and generally does great product work
 * [twitter](https://twitter.com/adlo)
 * [linkedin](https://www.linkedin.com/in/adamfendrych/)
+
+See the rest of Outfindo team on [linkedin](https://www.linkedin.com/search/results/people/?keywords=outfindo&origin=CLUSTER_EXPA[%E2%80%A6]on=0&searchId=fd55521e-3823-4dbe-ac78-d69eb506a727&sid=-%40U).

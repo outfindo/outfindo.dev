@@ -25,6 +25,7 @@ Outfindo helps people to find the right bike. We know all about a bike (includin
 * enhance the data to gain insight using classification based on expert know-how
 * obtain availability data from shops/eshops and match them with our catalog
 * build a marketplace where we help customers to find the right bike and to get it
+* actively research and prototype new and fun ways of assistance for the customer to get product insight
 
 ## What will you do
 
@@ -73,10 +74,12 @@ We will get along well if you
 * want to fix things rather than wait for someone else to do it
 * ask for help if you don't know what to do - we are ready to help you
 
+See [our core values]({{ site.baseurl }}/) to get a better feel for what is important for us.
+
 
 ## What do we offer
 
-* money, like - not garage-startup money, we want ou to be comfortable
+* money - not garage-startup money, not corporate-level money either, but we want you to be comfortable
 * stock options for you to get what is yours when Outfindo gets successful
 * all the help we can provide to get you going - let us know
 * regular mentoring and leadership by [Ondřej]({{ site.baseurl }}/team#ondrej), can go both ways - we can all learn from each other
