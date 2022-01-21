@@ -9,7 +9,7 @@ Our team is open-minded, inclusive, passionate. We help each other and trust eac
 We are always learning and trying to stay ahead. We respect each other and listen to one another.
 
 We are curious, we want to grow and get better. Creativity, passion, ambition and Outfindo goals drive us forward. We depend on each other's reliability.
-We are not afraid to speak up and are expected to come up with unplanned innovations to open up new possibilities for the business.
+We are not afraid to speak up and naturally come up with unplanned innovations to open up new possibilities for the business.
 
 We believe we can help Outfindo by working effectively, by automating the boring stuff and by creating a friendly place to work for all.
 
