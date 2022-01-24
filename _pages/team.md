@@ -36,7 +36,7 @@ These are the people building Outfindo. We believe we are a strong team with a l
 * ex-computer vision programmer, ex-Dáme jídlo backend engineer
 * graduated with honors from Computational Mathematics
 * can teach robots to do stuff, and thus teaching our machines should be easy
-* author of our current automated ETL pipelines, scraping tech and ML/NLP vision
+* author of our current automated ETL pipelines, scraping tech and ML/CV
 * [github](https://github.com/Tomichi)
 * [linkedin](https://www.linkedin.com/in/tom%C3%A1%C5%A1-michna-69760290/)
 
