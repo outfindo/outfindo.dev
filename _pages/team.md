@@ -44,8 +44,9 @@ These are the people building Outfindo. We believe we are a strong team with a l
 ![Barbora Profantová](/assets/team/bajka.jpeg){:style="text-align: left; height:100px; margin: 0"}
 ## Barbora Profantová (Bajka)
 * data engineer
-* physics PhD graduate, ex-researcher
-* found a way to Python through [Pyladies](https://pyladies.cz/), quickly gained enough skill to 
+* Physics Ph.D. graduate, ex-researcher
+* found a way to Python through [Pyladies](https://pyladies.cz/) and Udemy
+* performing the extraction and treatment of complex online data
 * [linkedin](https://www.linkedin.com/in/barbora-profantov%C3%A1/)
 
 <br id="martin">
