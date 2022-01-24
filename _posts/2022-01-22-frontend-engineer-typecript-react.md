@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 <br>
 
 **TL;DR**   
-**We need you to help us with Typescript/React frontend, full-time, probably in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, good money and stock options. Clean code, Typescript, Next.js, Vercel.**
+**We want you to help us with Typescript/React frontend, full-time, probably in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, good money and stock options. Clean code, Typescript, Next.js, Vercel.**
 
 <!--more-->
 
@@ -29,6 +29,8 @@ Outfindo helps people to find the right bike. We know all about a bike (includin
 * obtain availability data from shops/eshops and match them with our catalog
 * build a marketplace where we help customers to find the right bike and to get it
 * actively research and prototype new and fun ways of assistance for the customer to get product insight
+
+* See **[outfindo.cz](https://outfindo.cz)** and [outfindo.com](https://outfindo.com).
 
 ## What will you do
 
@@ -76,6 +78,8 @@ We will get along well if you
 * are able of abstract thinking, can solve problems with code
 * want to fix things rather than wait for someone else to do it
 * ask for help if you don't know what to do - we are ready to help you
+
+* It is ok to not be sure about some of these things. We are all learning along the way.
 
 See [our core values]({{ site.baseurl }}/) to get a better feel for what is important for us.
 

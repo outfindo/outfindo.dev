@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Experienced backend engineer, PHP"
+title: "Senior backend engineer, PHP & PostgreSQL"
 tags: Jobs
 excerpt_separator: <!--more-->
 ---
@@ -8,15 +8,20 @@ excerpt_separator: <!--more-->
 ![Team](/assets/bricks/1.jpg)
 <br>
 
-There's currently only one guy (actually [me]({{ site.baseurl }}/team#ondrej)) doing all the backend work, on top of leading the tech. I need help!
+**TL;DR**   
+**We want you to take over our PHP/Postgres backend, full-time, probably in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, good money and stock options. You should have strong experience and architecture background. Clean code, Testing, DDD, CQRS.**
+
+
+There's currently only one guy (actually [me]({{ site.baseurl }}/team#ondrej)) doing all the backend work, on top of leading the tech.
+I need help! I want you to replace me as backend lead sooner or later.
 
 <!--more-->
 
 Join our awesome [team]({{ site.baseurl }}/team)! We are scaling our engineering right now.
 The infant hacky two years of Outfindo are over, we are reasonably sure about what we need to build now and need help.
 
-**This is an opportunity to do things the way you want, to learn a lot**, and to be part of the formative period of our company.
-If you help us to make it, there's a lot in it for you as well.
+This is an **opportunity to do things the way you want, to learn a lot**, and to be part of the formative period of our company.
+If you help us to make it, there's a lot in it for you as well. **There is a challenge here waiting for you.**
 
 ## What we do
 
@@ -27,9 +32,12 @@ Outfindo helps people to find the right bike. We know all about a bike (includin
 * build a marketplace where we help customers to find the right bike and to get it
 * actively research and prototype new and fun ways of assistance for the customer to get product insight
 
+See **[outfindo.cz](https://outfindo.cz)** and [outfindo.com](https://outfindo.com).
+
 ## What will you do
 
 * take care of our backend codebase (15 kloc src, 10 kloc tests)
+* make architecture decisions, use new tech if it helps
 * implement changes to API for frontend features based on well-researched user stories by product manager [Adlo]({{ site.baseurl }}/team#adlo)
 * manage the database, optimize, cache data
 * set up integrations with 3rd party services
@@ -37,14 +45,13 @@ Outfindo helps people to find the right bike. We know all about a bike (includin
 * pair-program and review code with [Ondřej]({{ site.baseurl }}/team#ondrej) so that you can learn from each other
 * refactor the code regularly to eliminate tech debt, delete unused code often (so satisfying! :)
 * ship small changes with feature toggles so that we can deploy continuously
-* make architecture decisions, use new tech if it helps
 * manage the infrastructure, set up new services if needed
 * participate in team activities - learning sessions, sharing experience, workshops
 
 ## What tech and practises do we use
 
-* PHP 8, Symfony, 
-* tests in PHPUnit, both integration/database and unit tests, TDD when suitable
+* PHP 8, Symfony
+* PHPUnit tests, both unit and integration/database, TDD when suitable
 * static code analysis (PHPStan/Psalm)
 * [Domain-driven design](https://martinfowler.com/tags/domain%20driven%20design.html), [CQRS](https://martinfowler.com/bliki/CQRS.html), [Value objects](https://martinfowler.com/bliki/ValueObject.html), [Hexagonal architecture](https://matthiasnoback.nl/2017/07/layers-ports-and-adapters-part-1-introduction/)
 * read (and sometimes write) models using plain SQL instead of Doctrine
@@ -54,8 +61,9 @@ Outfindo helps people to find the right bike. We know all about a bike (includin
 * makefiles and shell scripts for task automation
 * dockerized dev stack
 
-## What we are starting or planning to do (may be one of your tasks)
+## What we are starting or planning to do
 
+These may be one of your first tasks:
 * better data models on API, OpenAPI specs
 * GitHub Actions CI pipeline (not needed for one-man show:)
 * better monitoring
@@ -69,15 +77,19 @@ Outfindo helps people to find the right bike. We know all about a bike (includin
 Our team is open-minded, inclusive, passionate. We help each other and trust each other to do the best job possible.
 We are always learning and trying to stay ahead. We respect each other and listen to one another.
 
-We will get along well if you
+We will get along and this position will suit you if you
 
-* have strong previous backend and infrastructure experience
-* see patterns around you, apply your past experience to new problems
-* want your code to be clean, readable and maintaiable
+* have strong previous coding experience, probably something like 5+ years of backend development
+* are not afraid of infrastructure - setting up services, maintaining Linux machines
+* are used to be a strong member of a team, probably leading the way in terms of practises and tech used
+* see patterns around you, apply your experience to new problems
+* want your code to be clean, readable and maintainable
 * are aware of application architecture - think about separation of concerns and layers during design
 * are able of abstract thinking, can solve problems with code
 * want to fix things rather than wait for someone else to do it
 * ask for help if you don't know what to do - we are ready to help you
+
+It is ok to not be sure about some of these things. We are all learning along the way.
 
 See [our core values]({{ site.baseurl }}/) to get a better feel for what is important for us.
 
