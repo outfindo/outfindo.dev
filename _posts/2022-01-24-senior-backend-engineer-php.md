@@ -11,11 +11,10 @@ excerpt_separator: <!--more-->
 **TL;DR**   
 **We want you to take over our PHP/Postgres backend, full-time, probably in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, good money and stock options. You should have strong experience and architecture background. Clean code, Testing, DDD, CQRS.**
 
+<!--more-->
 
 There's currently only one guy (actually [me]({{ site.baseurl }}/team#ondrej)) doing all the backend work, on top of leading the tech.
 I need help! I want you to replace me as backend lead sooner or later.
-
-<!--more-->
 
 Join our awesome [team]({{ site.baseurl }}/team)! We are scaling our engineering right now.
 The infant hacky two years of Outfindo are over, we are reasonably sure about what we need to build now and need help.
