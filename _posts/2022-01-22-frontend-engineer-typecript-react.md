@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frontend engineer, React"
+title: "Frontend engineer, Typescript & React"
 tags: Jobs
 excerpt_separator: <!--more-->
 ---
@@ -8,15 +8,18 @@ excerpt_separator: <!--more-->
 ![Team](/assets/bricks/2.jpg)
 <br>
 
-There's currently only one frontend guy doing all the work. He needs help!
+**TL;DR**   
+**We need you to help us with Typescript/React frontend, full-time, probably in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, good money and stock options. Clean code, Typescript, Next.js, Vercel.**
 
 <!--more-->
+
+There's currently only one frontend guy doing all the work. He needs help!
 
 Join our awesome [team]({{ site.baseurl }}/team)! We are scaling our engineering right now.
 The infant hacky two years of Outfindo are over, we are reasonably sure about what we need to build now and need help.
 
-**This is an opportunity to do things the way you want, to learn a lot**, and to be part of the formative period of our company.
-If you help us to make it, there's a lot in it for you as well.
+This is an **opportunity to do things the way you want, to learn a lot**, and to be part of the formative period of our company.
+If you help us to make it, there's a lot in it for you as well. **There is a challenge here waiting for you.**
 
 ## What we do
 
