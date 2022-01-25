@@ -14,10 +14,10 @@ excerpt_separator: <!--more-->
 <!--more-->
 
 There's currently only one guy (actually [me]({{ site.baseurl }}/team#ondrej)) doing all the backend work, on top of leading the tech.
-I need help!
+I need a partner!
 
 Join our awesome [team]({{ site.baseurl }}/team)! We are scaling our engineering right now.
-The infant hacky two years of Outfindo are over, we are reasonably sure about what we need to build now and need help.
+The infant hacky two years of Outfindo are over, we are reasonably sure about what we need to build now.
 
 This is an **opportunity to do things the way you want, to learn a lot**, and to be part of the formative period of our company.
 If you help us to make it, there's a lot in it for you as well. **There is a challenge here waiting for you.**
@@ -47,8 +47,9 @@ See **[outfindo.cz](https://outfindo.cz)** and [outfindo.com](https://outfindo.c
 
 ## What tech and practises do we use
 
-* PHP 8, Symfony
-* PHPUnit tests, both unit and integration/database, TDD when suitable
+* PHP 8 (8.1 soon, readonly properties FTW)
+* Symfony (but trying to be framework-agnostic)
+* PHPUnit tests, both unit and integration/database, TDD approach when suitable
 * static code analysis (PHPStan/Psalm)
 * [Domain-driven design](https://martinfowler.com/tags/domain%20driven%20design.html), [CQRS](https://martinfowler.com/bliki/CQRS.html), [Value objects](https://martinfowler.com/bliki/ValueObject.html), [Hexagonal architecture](https://matthiasnoback.nl/2017/07/layers-ports-and-adapters-part-1-introduction/)
 * read (and sometimes write) models using plain SQL instead of Doctrine
@@ -73,6 +74,7 @@ You may be able to help with these tasks:
 
 Our team is open-minded, inclusive, passionate. We help each other and trust each other to do the best job possible.
 We are always learning and trying to stay ahead. We respect each other and listen to one another.
+Creativity, passion, ambition and Outfindo goals drive us forward. We depend on each other's reliability.
 
 We will get along and this position will suit you if you
 
@@ -85,8 +87,6 @@ We will get along and this position will suit you if you
 * ask for help if you don't know what to do - we are ready to help you
 
 It is ok to not be sure about some of these things. We are all learning along the way.
-
-See [our core values]({{ site.baseurl }}/) to get a better feel for what is important for us.
 
 
 ## What do we offer
