@@ -3,6 +3,7 @@ layout: post
 title: "Frontend engineer, Typescript & React"
 tags: Jobs
 excerpt_separator: <!--more-->
+published: false
 ---
 
 ![Team](/assets/bricks/2.jpg)
@@ -36,7 +37,7 @@ Outfindo helps people to find the right bike. We know all about a bike (includin
 
 * implement changes to our web based on well-researched user stories by product manager [Adlo]({{ site.baseurl }}/team#adlo)
 * create UX based on design work by [Ruda]({{ site.baseurl }}/team#ruda)
-* participate on product decisions during early phases of dev process
+* participate on product decisions during early phases of dev process - we are not a [feature factory](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory)
 * pair-program and review code with [Franta]({{ site.baseurl }}/team#franta) so that you can learn from each other
 * refactor the code regularly to eliminate tech debt
 * ship small changes with feature toggles so that we can deploy continuously

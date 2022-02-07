@@ -40,7 +40,7 @@ See **[outfindo.cz](https://outfindo.cz)** and [outfindo.com](https://outfindo.c
 * implement changes to API for frontend features based on well-researched user stories by product manager [Adlo]({{ site.baseurl }}/team#adlo)
 * manage the database, optimize, cache data
 * set up integrations with 3rd party services
-* participate on product decisions during early phases of dev process
+* participate on product decisions during early phases of dev process - we are not a [feature factory](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory)
 * pair-program and review code with [Ondřej]({{ site.baseurl }}/team#ondrej) so that you can learn from each other
 * refactor the code regularly to eliminate tech debt, delete unused code often (so satisfying! :)
 * ship small changes with feature toggles so that we can deploy continuously
@@ -49,9 +49,9 @@ See **[outfindo.cz](https://outfindo.cz)** and [outfindo.com](https://outfindo.c
 
 ## What tech and practises do we use
 
-* PHP 8 (8.1 soon, readonly properties FTW)
-* Symfony (but trying to be framework-agnostic)
-* PHPUnit tests, both unit and integration/database, TDD approach when suitable
+* PHP 8.1 (readonly properties and enums FTW)
+* Symfony 6 (but trying to be framework-agnostic)
+* PHPUnit tests, both unit and integration/database, TDD approach when suitable - up to you
 * static code analysis (PHPStan/Psalm)
 * [Domain-driven design](https://martinfowler.com/tags/domain%20driven%20design.html), [CQRS](https://martinfowler.com/bliki/CQRS.html), [Value objects](https://martinfowler.com/bliki/ValueObject.html), [Hexagonal architecture](https://matthiasnoback.nl/2017/07/layers-ports-and-adapters-part-1-introduction/)
 * read (and sometimes write) models using plain SQL instead of Doctrine
@@ -71,6 +71,7 @@ These may be one of your first tasks:
 * Elasticsearch or similar tech for engine that powers our product catalog
 * messaging, queues for asynchronous task processing
 * split backend into more independent services (monolith is ok and preferred, but some functionality may need different tech stack)
+* discoverability, better separation of layers, better error handling
 
 ## What do we expect from you
 
