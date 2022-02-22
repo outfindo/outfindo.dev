@@ -10,7 +10,7 @@ published: false
 <br>
 
 **TL;DR**   
-**We want you to help us with Typescript/React frontend, full-time, probably in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, good money and stock options. Clean code, Typescript, Next.js, Vercel.**
+**We want you to help us with Typescript/React frontend, full-time, probably in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, no stress, good money and stock options. Clean code, Typescript, Next.js, Vercel.**
 
 <!--more-->
 
@@ -90,6 +90,7 @@ We will get along well if you
 * stock options for you to get what is yours when Outfindo gets successful
 * all the help we can provide to get you going - let us know
 * regular mentoring and leadership by [Ondřej]({{ site.baseurl }}/team#ondrej), can go both ways - we can all learn from each other
+* stress-free work environment - there are no "crunches", no time estimates, no hard commitments to deliver changes at certain time
 * monthly team events - bike in summer, climbing in winter, off-sites
 
 We are based in Prague with office in Vinohrady.
