@@ -8,6 +8,10 @@ permalink: /team/
 
 These are the people building Outfindo. We believe we are a strong team with a lot of experience and diverse background.
 
+Our team is open-minded, inclusive, passionate. We help each other and trust each other to do the best job possible.
+We are always learning and trying to stay ahead. We respect each other and listen to one another.
+Creativity, passion, ambition and Outfindo goals drive us forward. We depend on each other's reliability.
+
 <br id="ondrej">
 ![Ondřej Bouda](/assets/team/ondrej.jpeg){:style="text-align: left; height:100px; margin: 0"}
 ## Ondřej Bouda

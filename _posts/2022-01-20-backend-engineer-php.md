@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 <br>
 
 **TL;DR**   
-**We want you to help us with PHP/Postgres backend, full-time, probably in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, no stress, good money and stock options. You should have some experience and open mind. Clean code, Testing, DDD, CQRS.**
+**We want you to build our PHP/Postgres backend, full-time, probably in Prague. We will get you challenge, opportunity and help. Great team, good money and stock options. You should have experience building backend. Clean code, testing, DDD, CQRS.**
 
 <!--more-->
 
@@ -20,7 +20,7 @@ Join our awesome [team]({{ site.baseurl }}/team)! We are scaling our engineering
 The infant hacky two years of Outfindo are over, we are reasonably sure about what we need to build now.
 
 This is an **opportunity to do things the way you want, to learn a lot**, and to be part of the formative period of our company.
-If you help us to make it, there's a lot in it for you as well. **There is a challenge here waiting for you.**
+If you help us to make it, there's a lot in it for you as well.
 
 ## What we do
 
@@ -37,12 +37,14 @@ See **[outfindo.cz](https://outfindo.cz)** and [outfindo.com](https://outfindo.c
 
 * take care of our backend codebase (15 kloc src, 10 kloc tests)
 * implement changes to API for frontend features based on well-researched user stories by product manager [Adlo]({{ site.baseurl }}/team#adlo)
-* work with modern PostgreSQL database, write SQL queries
+* work with PostgreSQL database
 * set up integrations with 3rd party services
 * participate on product decisions during early phases of dev process - we are not a [feature factory](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory)
 * pair-program and review code with [Ondřej]({{ site.baseurl }}/team#ondrej) so that you can learn from each other
 * refactor the code regularly to eliminate tech debt, delete unused code often (so satisfying! :)
 * ship small changes with feature toggles so that we can deploy continuously
+* participate on architecture decisions, propose new tech
+* help set up the infrastructure
 * participate in team activities - learning sessions, sharing experience, workshops
 
 ## What tech and practises do we use
@@ -61,7 +63,7 @@ See **[outfindo.cz](https://outfindo.cz)** and [outfindo.com](https://outfindo.c
 
 ## What we are starting or planning to do
 
-You may be able to help with these tasks:
+These may be one of your first tasks:
 * better data models on API, OpenAPI specs
 * GitHub Actions CI pipeline (not needed for one-man show:)
 * better monitoring
@@ -73,22 +75,22 @@ You may be able to help with these tasks:
 
 ## What do we expect from you
 
-Our team is open-minded, inclusive, passionate. We help each other and trust each other to do the best job possible.
-We are always learning and trying to stay ahead. We respect each other and listen to one another.
-Creativity, passion, ambition and Outfindo goals drive us forward. We depend on each other's reliability.
-
-We will get along and this position will suit you if you
-
-* have previous coding experience, probably with some of your code running in production
-* know how web applications work, all the way from database through backend and API to SPA frontend
+This position will suit you if you
+* have previous backend coding experience with some of your code running in production
 * see patterns around you, apply your experience to new problems
 * want your code to be clean, readable and maintainable
+* think about application architecture - separation of concerns and layers
 * are able of abstract thinking, can solve problems with code
 * want to fix things rather than wait for someone else to do it
 * ask for help if you don't know what to do - we are ready to help you
+* are not afraid of infrastructure - setting up services, know your way around Linux
 
 It is ok to not be sure about some of these things. We are all learning along the way.
 
+We will get along if you
+* are open-minded, learning new stuff from others and on your own
+* respect others' opinions
+* care about your work when given the right challenge
 
 ## What do we offer
 
@@ -103,6 +105,6 @@ We are based in Prague with office in Vinohrady.
 Remote work is alright, but we prefer to see each other regularly to be effective and have some fun, more so after two years of Covid isolation.
 We have comfy chairs, whiteboard, coffee machine and we love cookies.
 
-**If this resonates with you let us know - even if you are not sure about some of this stuff or about yourself. We are ready to help you if you want to work with us.**
+**If this resonates with you let us know. We are ready to help you if you want to work with us.**
 
-Write an email to [cyril@outfindo.com](mailto:cyril@outfindo.com) or grab a phone and call [Ondřej]({{ site.baseurl }}/team#ondrej) directly: +420724532118.
+Write an email to [ondrej.bouda@outfindo.com](mailto:ondrej.bouda@outfindo.com) or grab a phone and call [Ondřej]({{ site.baseurl }}/team#ondrej) directly: +420724532118.
