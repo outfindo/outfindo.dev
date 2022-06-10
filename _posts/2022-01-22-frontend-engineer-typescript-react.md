@@ -3,7 +3,6 @@ layout: post
 title: "Frontend engineer, Typescript & React"
 tags: Jobs
 excerpt_separator: <!--more-->
-published: false
 ---
 
 ![Team](/assets/bricks/2.jpg)
