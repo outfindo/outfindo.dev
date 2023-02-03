@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 
 Máme dva lidi, kteří u nás řeší data. Staví ETL pipeline, scrapujou weby, transformujou feedy, obohacují data. Je toho moc a potřebujeme s tím pomoct.
 
-Přidej se k našemu super[týmu]({{ site.baseurl }}/team)!
+Přidej se k našemu super [týmu]({{ site.baseurl }}/team)!
 Máme za sebou tři roky startup hackování a teď už rozumně víme, co potřebujeme dál dělat.
 
 Můžeš to brát jako **příležitost dělat věci po svém a hodně se toho naučit**. Být součástí (pořád ještě) malého týmu, kde jde hlavně o to vymyslet, jak věci udělat efektivně.
