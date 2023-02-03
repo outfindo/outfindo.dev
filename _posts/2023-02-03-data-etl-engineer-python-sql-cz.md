@@ -2,7 +2,6 @@
 layout: post
 title: "Data/ETL engineer, Python & SQL, Praha"
 tags: Jobs
-published: false
 excerpt_separator: <!--more-->
 ---
 
@@ -48,7 +47,7 @@ Umíme spojit potřeby zákazníků a prodjeců a produktová data.
 * PostgreSQL databáze, relační i nerelační přístupy (json data)
 * Airflow
 * Linux-based servery, Docker, automatizované CI/CD
-* testy
+* píšeme testy
 
 ## Čemu se chceme víc věnovat
 
@@ -88,6 +87,6 @@ Budeme si rozumět, když vyznáváš podobné hodnoty, jako my:
 Jsme v Praze, máme svoje kancly na Žižkově, kde je pro tebe volný stůl. Kafe a super výhled.
 Remote je fajn, ale chceme tě mít aspoň půlku času tady u sebe, přijde nám to v téhle fázi firmy efektivní.
 
-**Jestli to s tebou nějak pohnulo, ozvi se.**
+**Jestli to s tebou nějak pohnulo, ozvi se!**
 
 Pošli email na [ondrej.bouda@outfindo.com](mailto:ondrej.bouda@outfindo.com) bebo zavolej [Ondrovi]({{ site.baseurl }}/team#ondrej) napřímo: +420724532118.
