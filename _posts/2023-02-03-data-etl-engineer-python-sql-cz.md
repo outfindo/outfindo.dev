@@ -89,4 +89,4 @@ Remote je fajn, ale chceme tě mít aspoň půlku času tady u sebe, přijde ná
 
 **Jestli to s tebou nějak pohnulo, ozvi se!**
 
-Pošli email na [ondrej.bouda@outfindo.com](mailto:ondrej.bouda@outfindo.com) bebo zavolej [Ondrovi]({{ site.baseurl }}/team#ondrej) napřímo: +420724532118.
+Pošli email na [ondrej.bouda@outfindo.com](mailto:ondrej.bouda@outfindo.com) nebo zavolej [Ondrovi]({{ site.baseurl }}/team#ondrej) napřímo: +420724532118.

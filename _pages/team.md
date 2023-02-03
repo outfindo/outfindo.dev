@@ -53,6 +53,12 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 * performing the extraction and treatment of complex online data
 * [linkedin](https://www.linkedin.com/in/barbora-profantov%C3%A1/)
 
+<br id="david">
+![David Kristín](/assets/team/david.jpeg){:style="text-align: left; height:100px; margin: 0"}
+## David Kristín
+* backend engineer
+* [linkedin](https://www.linkedin.com/in/david-kristin/)
+
 <br id="martin">
 ![Martin Chrz](/assets/team/martin.jpeg){:style="text-align: left; height:100px; margin: 0"}
 ## Martin Chrz
@@ -61,15 +67,6 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 * Matfyz guy, analytical brain
 * author of early Outfindo excel-based prototype and basically all early data-related stuff
 * [linkedin](https://www.linkedin.com/in/martinchrz/)
-
-<br id="ruda">
-![Rudolf Matějček](/assets/team/ruda.jpeg){:style="text-align: left; height:100px; margin: 0"}
-## Rudolf Matějček
-* UX, design
-* creative director of [Bicepsdigital](https://bicepsdigital.com/)
-* artist at heart
-* author of the whole design and UX concept, the reason why Outfindo is nice right from the start
-* [linkedin](https://www.linkedin.com/in/rudolf-mat%C4%9Bj%C4%8Dek-b37b7044)
 
 <br id="adlo">
 ![Adam Fendrych](/assets/team/adlo.jpeg){:style="text-align: left; height:100px; margin: 0"}
@@ -80,5 +77,20 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 * does user research, collects feedback and generally does great product work
 * [twitter](https://twitter.com/adlo)
 * [linkedin](https://www.linkedin.com/in/adamfendrych/)
+
+<br id="dominik">
+![Dominik Mazura](/assets/team/dominik.jpeg){:style="text-align: left; height:100px; margin: 0"}
+## Dominik Mazura
+* designer
+* [linkedin](https://www.linkedin.com/in/dominik-mazura-97977196/)
+
+<br id="ruda">
+![Rudolf Matějček](/assets/team/ruda.jpeg){:style="text-align: left; height:100px; margin: 0"}
+## Rudolf Matějček
+* UX, design
+* creative director of [Bicepsdigital](https://bicepsdigital.com/)
+* artist at heart
+* author of the whole design and UX concept, the reason why Outfindo is nice right from the start
+* [linkedin](https://www.linkedin.com/in/rudolf-mat%C4%9Bj%C4%8Dek-b37b7044)
 
 See the rest of Outfindo team on [linkedin](https://www.linkedin.com/search/results/people/?keywords=outfindo&origin=CLUSTER_EXPA[%E2%80%A6]on=0&searchId=fd55521e-3823-4dbe-ac78-d69eb506a727&sid=-%40U).
