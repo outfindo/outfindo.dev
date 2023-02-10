@@ -27,7 +27,7 @@ Outfindo pomáhá lidem vybrat zboží v online prostředí - třeba kola skrz n
 Umíme spojit potřeby zákazníků a prodjeců a produktová data.
 * budujeme produktový katalog z mnoha zdrojů, automatizovaně
 * obohacujeme data za příspění expertů v oboru tak, aby koncový zákazník nemusel studovat technické parametry
-* získáváme data o dostupnosti zboží v eshopech a polžky matchujeme s naším katalogem
+* získáváme data o dostupnosti zboží v eshopech a položky matchujeme s naším katalogem
 * budujeme průvodce, který zákazníka provede výběrem produktu
 * budujeme náš marketplace a zároveň nástroje, které embedujeme do webů našich partnerů
 
@@ -38,7 +38,7 @@ Umíme spojit potřeby zákazníků a prodjeců a produktová data.
 * optimalizovat procesy, automatizovat, vymýšlet, jak jdou věci udělat lépe a víc efektivně
 * starat se o kvalitu dat, hledat chyby, opravovat
 * deduplikovat data
-* opravovat scrapy a procesy transformující data
+* opravovat spidery a procesy transformující data
 * starat se o infrastrukturu, potenciálně
 
 ## Co používáme za technologie a jak to děláme
