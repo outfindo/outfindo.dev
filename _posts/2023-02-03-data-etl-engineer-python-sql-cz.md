@@ -31,6 +31,10 @@ Umíme spojit potřeby zákazníků a prodjeců a produktová data.
 * budujeme průvodce, který zákazníka provede výběrem produktu
 * budujeme náš marketplace a zároveň nástroje, které embedujeme do webů našich partnerů
 
+Víc o nás třeba i tady:
+* [CzechCrunch.cz - Online průvodce koupí kola má další investici. Peníze opět posílá i nejvýše postavený Čech v showbyznysu](https://cc.cz/online-pruvodce-koupi-kola-ma-dalsi-investici-penize-opet-posila-i-nejvyse-postaveny-cech-v-showbyznysu/)
+* [Forbes.cz - Topmanažery lákají kola. Kyncl a další investoři pouští do Outfindo desítky milionů](https://forbes.cz/topmanazery-lakaji-kola-kyncl-pousti-do-outfindo-dalsi-miliony-a-inspiruje-ostatni/)
+
 ## Co budeš dělat
 
 * starat se o ETL pipelines, které zpracovávají produktová data a data a dostupnost produktů na trhu
