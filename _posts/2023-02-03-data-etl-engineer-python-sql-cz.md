@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 <br>
 
 **TL;DR**   
-**Potřebujeme pomoct se zpracováváním dat, s naším ETL procesem. Poskytneme ti velkou výzvu, příležitost a pomoc týmu. Chceme, abys už měl něco za sebou a věděl zhruba co a jak.**
+**Potřebujeme pomoct se zpracováváním dat, s naším ETL procesem. Poskytneme ti velkou výzvu, volnost, příležitost a pomoc týmu. Chceme, abys už měl něco za sebou a věděl zhruba co a jak.**
 
 <!--more-->
 
@@ -79,6 +79,7 @@ Budeme si rozumět, když vyznáváš podobné hodnoty, jako my:
 ## Co nabízíme
 
 * peníze - ne jako garážový startup, ale taky ne jako korporát - chceme tvoji spokojenost (60-70k)
+* volnost - je v pohodě se domluvit na kratším než plném úvazku, na setkávání se v kanclu třeba jen 2 x týdně
 * pomoc - do začátku i s čímkoliv mimo
 * mentoring od lidí, kteří už toho mají hodně za sebou (ex-Dáme jídlo dev tým)
 * práce bez stresu, nemáme žádné deadlines, všichni to tu máme stejně - nechceme vyhořet :)
