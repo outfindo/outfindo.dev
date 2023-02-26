@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 <br>
 
 **TL;DR**   
-**Potřebujeme pomoct se zpracováváním dat, s naším ETL procesem. Poskytneme ti velkou výzvu, volnost, příležitost a pomoc týmu. Chceme, abys už měl něco za sebou a věděl zhruba co a jak.**
+**Potřebujeme pomoct se zpracováváním dat, s naším ETL procesem. Poskytneme ti velkou výzvu, volnost, příležitost a pomoc týmu. Chceme, abys už měl/a něco za sebou a věděl/a zhruba co a jak.**
 
 <!--more-->
 
