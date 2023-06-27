@@ -23,16 +23,6 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 * [twitter](https://twitter.com/ondrejbouda)
 * [linkedin](https://www.linkedin.com/in/ond%C5%99ej-bouda-66b2b4b2/)
 
-<br id="franta">
-![František Bláha](/assets/team/franta.jpeg){:style="text-align: left; height:100px; margin: 0"}
-## František Bláha
-* frontend engineer
-* ex-Dáme jídlo
-* strong feeling for frontend architecture and clean code
-* built our SPA web from ground up
-* [github](https://github.com/blahafrank)
-* [linkedin](https://www.linkedin.com/in/fbp/)
-
 <br id="tomichi">
 ![Tomáš Michna](/assets/team/tomichi.jpeg){:style="text-align: left; height:100px; margin: 0"}
 ## Tomáš Michna (Tomichi)
@@ -41,6 +31,7 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 * graduated with honors from Computational Mathematics
 * can teach robots to do stuff, and thus teaching our machines should be easy
 * author of our current automated ETL pipelines, scraping tech and ML/CV
+* his mission is to automate everything with a combination of conventional and AI methods
 * [github](https://github.com/Tomichi)
 * [linkedin](https://www.linkedin.com/in/tom%C3%A1%C5%A1-michna-69760290/)
 
@@ -50,8 +41,16 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 * data engineer
 * Physics Ph.D. graduate, ex-researcher
 * found a way to Python through [Pyladies](https://pyladies.cz/) and Udemy
-* performing the extraction and treatment of complex online data
+* performing the extraction and treatment of complex online data with the help of AI
 * [linkedin](https://www.linkedin.com/in/barbora-profantov%C3%A1/)
+
+<br id="vitek">
+![Vít Koštejn](/assets/team/vitek.png){:style="text-align: left; height:100px; margin: 0"}
+## Vít Koštejn
+* data engineer
+* AI student
+* builing experimental real-world ML applications
+* [linkedin](https://www.linkedin.com/in/vit-kostejn/)
 
 <br id="david">
 ![David Kristín](/assets/team/david.jpeg){:style="text-align: left; height:100px; margin: 0"}
@@ -83,6 +82,24 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 ## Dominik Mazura
 * designer
 * [linkedin](https://www.linkedin.com/in/dominik-mazura-97977196/)
+
+<br id="franta">
+![František Bláha](/assets/team/franta.jpeg){:style="text-align: left; height:100px; margin: 0"}
+## František Bláha
+* frontend engineer
+* ex-Dáme jídlo
+* strong feeling for frontend architecture and clean code
+* built our SPA web from ground up
+* [github](https://github.com/blahafrank)
+* [linkedin](https://www.linkedin.com/in/fbp/)
+
+<br id="ales">
+![Aleš Studený](/assets/team/ales.png){:style="text-align: left; height:100px; margin: 0"}
+## Aleš Studený
+* frontend engineer
+* strong feeling for design and UX
+* coding our customer-facing web apps
+* [linkedin](https://www.linkedin.com/in/theplak/)
 
 <br id="ruda">
 ![Rudolf Matějček](/assets/team/ruda.jpeg){:style="text-align: left; height:100px; margin: 0"}
