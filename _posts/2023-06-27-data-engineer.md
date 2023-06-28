@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 <br>
 
 **TL;DR**   
-**Potřebujeme pomoct s vývojem našich datových procesů, interních nástrojů a péčí o strukturu našich primárních dat. Poskytneme ti velkou výzvu, volnost, příležitost a pomoc týmu. Chceme, abys už měl/a zkušenosti v dané oblasti.**
+**Potřebujeme pomoct s vývojem našich datových procesů, interních nástrojů a péčí o strukturu našich primárních dat. Nabídneme ti volnost v rozhodování, příležitosti k růstu a podporu našeho týmu. Chceme, abys už měl/a zkušenosti v dané oblasti.**
 
 <!--more-->
 
