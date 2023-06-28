@@ -55,7 +55,7 @@ Víc o nás třeba i tady:
 * máme codereview
 * děláme experimenty, potvrzujeme hypotézy
 
-## Čemu se chceme víc věnovat
+## Čemu se chceme více věnovat
 
 Tohle může být jede z tvých prvních úkolů, protože my na to teď nemáme kapacitu
 * automatizace částí procesů, kde je stále vyžadován manuální zásah
