@@ -57,7 +57,7 @@ Víc o nás třeba i tady:
 
 ## Čemu se chceme více věnovat
 
-Tohle může být jede z tvých prvních úkolů, protože my na to teď nemáme kapacitu
+Tohle může být jeden z tvých prvních úkolů, protože my na to teď nemáme kapacitu
 * automatizace částí procesů, kde je stále vyžadován manuální zásah
 * vytvoření uživatelských nástrojů (admin) pro hromadné úpravy nad produktovým katalogem
 * zobecnění datového modelu tak, aby lépe pojmul produkty různých typů
@@ -67,15 +67,15 @@ Tohle může být jede z tvých prvních úkolů, protože my na to teď nemáme
 
 Budeš se k nám na tuhle roli hodit jestli
 * máš zkušenosti s podobnou činností, kterou popisujeme výše
-* jsi vývojář/ka, píšeš v Pythonu, umíš analyzovat problémy, rozdělit na menší části a přetavit do kódu/procesu
+* jsi vývojář/ka, píšeš v Pythonu, umíš analyzovat problémy, rozdělit je na menší části a přetavit je do kódu/procesu
 * rozumíš si s (PostgreSQL) databází, umíš navrhovat datové struktury, plynně píšeš SQL
-* máš analytické myšlení, vidíš koleme sebe příležitosti jak zlepšit procesy/systémy/obecně fungování věcí
+* máš analytické myšlení, vidíš kolem sebe příležitosti, jak zlepšit procesy/systémy/obecně fungování věcí
 * chceš psát čistý, udržovatelný kód a navrhovat systémy tak, aby ti nepadaly za měsíc na hlavu
 * chceš věci proaktivně zlepšovat
 * nebojíš se zeptat o pomoc, chceš řešit věci společně v týmu
 * zvládneš základy linuxu
 
-Očekáváme relativně zkušeného člověka. Je v pohodě nemít jistotu ohledně některé z těchhle oblastí, všichni se nějak učíme za pochodu.
+Očekáváme relativně zkušeného člověka. Je v pohodě nemít jistotu ohledně některé z těchto oblastí, všichni se nějak učíme za pochodu.
 
 Budeme si rozumět, když vyznáváš podobné hodnoty, jako my:
 * otevřenost v komunikaci a k nápadům ostatních
