@@ -9,9 +9,11 @@ excerpt_separator: <!--more-->
 <br>
 
 **TL;DR**   
-**Potřebujeme pomoct s vývojem našich datových procesů, interních nástrojů a péčí o strukturu našich primárních dat. Nabídneme ti volnost v rozhodování, příležitosti k růstu a podporu našeho týmu. Chceme, abys už měl/a zkušenosti v dané oblasti.**
+**Potřebujeme pomoct s vývojem našich datových procesů, interních nástrojů a péčí o strukturu našich primárních dat. Nabídneme ti volnost v rozhodování, příležitosti k růstu a podporu našeho týmu. Chceme, abys byl/a zkušený/á v dané oblasti.**
 
 <!--more-->
+
+Go to [english version]({{ site.baseurl }}/2023-08-08/data-engineer-en).
 
 Máme už celkem rozumný data tým. Stavíme ETL pipeline v Airflow, scrapujeme weby, používáme AI/ML ve všech oblastech naší činnosti. Ale je toho moc a potřebujeme pomoct to všechno propojit.
 
@@ -23,7 +25,7 @@ Pomož nám se dostat dál na naší cestě!
 
 ## Co děláme
 
-Outfindo pomáhá lidem vybrat zboží v online prostředí - skrz produkty, které jako SaaS prodáváme našim partnerům a skrz naři platformu **[outfindo.cz](https://outfindo.cz)**.
+Outfindo pomáhá lidem vybrat zboží v online prostředí - skrz produkty, které jako SaaS prodáváme našim partnerům a skrz naši platformu **[outfindo.cz](https://outfindo.cz)**.
 Umíme spojit potřeby zákazníků a prodjeců a produktová data.
 * budujeme produktový katalog z mnoha zdrojů, automatizovaně
 * obohacujeme data za příspění expertů v oboru tak, aby koncový zákazník nemusel studovat technické parametry
@@ -32,8 +34,8 @@ Umíme spojit potřeby zákazníků a prodjeců a produktová data.
 * budujeme nástroje, které embedujeme do webů našich partnerů
 
 Víc o nás třeba i tady:
-* [CzechCrunch.cz - Online průvodce koupí kola má další investici. Peníze opět posílá i nejvýše postavený Čech v showbyznysu](https://cc.cz/online-pruvodce-koupi-kola-ma-dalsi-investici-penize-opet-posila-i-nejvyse-postaveny-cech-v-showbyznysu/)
-* [Forbes.cz - Topmanažery lákají kola. Kyncl a další investoři pouští do Outfindo desítky milionů](https://forbes.cz/topmanazery-lakaji-kola-kyncl-pousti-do-outfindo-dalsi-miliony-a-inspiruje-ostatni/)
+* [Hospodářské noviny](https://archiv.hn.cz/c7-67231900-rs7eo-314c5af63be1c4d)
+* [EU-Startups](https://www.eu-startups.com/2023/08/prague-based-outfindo-secures-e900k-to-make-product-selection-easy-with-ai-driven-shopping-guides/) (v angličtině)
 
 ## Co budeš dělat
 
@@ -49,7 +51,6 @@ Víc o nás třeba i tady:
 * PostgreSQL databáze, relační i nerelační přístupy (json data)
 * Python 3.11, Scrapy, Numpy, Pytorch, Tensorflow, Polars, Seaborn, Jupyter notebook
 * Airflow
-* DuckDB
 * Linux-based servery, Docker, automatizované CI/CD
 * píšeme unit testy v Pytestu
 * máme codereview
@@ -84,7 +85,7 @@ Budeme si rozumět, když vyznáváš podobné hodnoty, jako my:
 
 ## Co nabízíme
 
-* peníze - ne jako garážový startup, ale taky ne jako korporát - chceme tvoji spokojenost (80-100k)
+* peníze - ne jako garážový startup, ale taky ne jako korporát - chceme tvoji spokojenost (100k+)
 * volnost - je v pohodě se domluvit na kratším než plném úvazku, na setkávání se v kanclu třeba jen 2-3 x týdně
 * pomoc - do začátku i s čímkoliv mimo práce
 * mentoring od lidí, kteří už toho mají hodně za sebou (ex-Dáme jídlo dev tým)
@@ -96,4 +97,4 @@ Remote je fajn, ale chceme tě mít aspoň půlku času tady u sebe, přijde ná
 
 **Jestli to s tebou nějak pohnulo, ozvi se!**
 
-Pošli email se CV na [tom.michna@outfindo.com](mailto:tom.michna@outfindo.com).
+Pošli email se CV na [ondrej.bouda@outfindo.com](mailto:tom.michna@outfindo.com) nebo zavolej [Ondřejovi]({{ site.baseurl }}/team#ondrej) rovnou: +420724532118.
