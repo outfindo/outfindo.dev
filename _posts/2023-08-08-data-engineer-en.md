@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data engineer, Python & PostgreSQL, Praha"
+title: "Senior data engineer, Python & PostgreSQL, Praha"
 tags: Jobs
 excerpt_separator: <!--more-->
 ---
