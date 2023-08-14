@@ -5,7 +5,7 @@ tags: Jobs
 excerpt_separator: <!--more-->
 ---
 
-![Team](/assets/bricks/4.jpg)
+![Software engineers](/assets/midjourney/emma_outfindo_man_helping_a_woman_working_together_at_single_co_70ea41df-666b-41a5-abe9-a4df855bed32.png)
 <br>
 
 **TL;DR**
