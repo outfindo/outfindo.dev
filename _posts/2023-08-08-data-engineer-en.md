@@ -29,7 +29,7 @@ Outfindo guides a customer through the process of choosing a complex product, be
 * get availability data from shops/eshops and match them with our catalog using ML
 * build a guide that helps the end-customers and embed that into our partners' websites
 * actively research and prototype new and fun ways of assistance for the customer to get product insight
-See [outfindo.com](outindo.com).
+See [outfindo.com](https://outfindo.com).
 
 The company just got money in and is set for the next phase. Read about us here:
 * [EU-Startups](https://www.eu-startups.com/2023/08/prague-based-outfindo-secures-e900k-to-make-product-selection-easy-with-ai-driven-shopping-guides/)
