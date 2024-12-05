@@ -9,25 +9,25 @@ excerpt_separator: <!--more-->
 <br>
 
 **TL;DR**   
-**We want you to manage the frontend parts of our apps, full-time, probably in Prague. Want to do this right, with the right people, build an engaged and agile team. Will get you challenge, opportunity and help. Great team, no stress, good money and stock options. Clean code, Typescript, React, Tailwind, Symfony, Vercel.**
+**We’re looking for a frontend engineer to own the frontend of our apps full-time, ideally in Prague. Join us to build something meaningful with the right people in an engaged and agile team. We offer challenge, opportunity, and support. Great team, no stress, competitive pay, and stock options. Tech stack: TypeScript, React, Tailwind, Symfony, Vercel.**
 
 <!--more-->
 
-We need help with building frontend for the best SaaS guidance app!
+We're building the best SaaS product guidance app and need your help with the frontend!
 
-Join our awesome [team]({{ site.baseurl }}/team)! We are scaling our engineering right now.
-The infant hacky two years of Outfindo are over, we are reasonably sure about what we need to build now.
+Join our awesome [team]({{ site.baseurl }}/team) as we scale up our tech team.
+We are in a phase where we know what to build, have a ton of ideas, interesting portfolio of clients and an ambition to scale our business through automated self-served channels such as Shopify.
 
 This is an **opportunity to do things the way you want, to learn a lot**, and to be part of the formative period of our company.
 If you help us to make it, there's a lot in it for you as well. **There is a challenge here waiting for you.**
 
 ## What we do
 
-Outfindo guides a customer through the process of choosing products online - be it a bike or a bra. Our core know-how is guidance, building a conversation-like flow for the end customer. We
-* onboard our customer (an e-shop), process their inventory
-* build a guidance flow for them using our custom AI tech
-* enhance product data to gain insights, using autonomous scrapers and LLMs
-* build a guide that helps the end-customers and embed that into our partners' websites
+Outfindo guides online shoppers in choosing the right products—whether it’s a bike or a bra. Our core know-how is guidance, building a conversation-like flow for the end customer. We
+* Onboard clients (e-shops) and process their inventory.
+* Use our custom AI tech to build guidance flows tailored to their products.
+* Enhance product data using autonomous scrapers and LLMs.
+* Deliver guides that integrate seamlessly into our clients’ websites, creating value for their customers.
   See [outfindo.com](https://outfindo.com).
 
 Read about us here:
@@ -37,68 +37,67 @@ Read about us here:
 
 ## What will you do
 
-* implement changes to our apps based on well-researched user stories by product manager [Adlo]({{ site.baseurl }}/team#adlo)
-* create UX based on design work by our designer
-* participate on product decisions during early phases of dev process - we are not a [feature factory](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory)
-* pair-program and review code with [Franta]({{ site.baseurl }}/team#franta) so that you can learn from each other
-* refactor the code regularly to eliminate tech debt
-* ship small changes with feature toggles so that we can deploy continuously
-* make architecture decisions, use new tech if it helps
-* participate in team activities - learning sessions, sharing experience, workshops
+* Implement frontend changes based on well-researched user stories from our product manager, [Adlo]({{ site.baseurl }}/team#adlo).
+* Build intuitive UX based on designs from our designer.
+* Participate on product decisions during early phases of dev process - we are not a [feature factory](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory).
+* Pair-program and review code with [Franta]({{ site.baseurl }}/team#franta) so that you can learn from each other.
+* Regularly refactor to tackle tech debt.
+* Ship small, incremental changes using feature toggles for continuous deployment.
+* Make architecture decisions and explore new technologies when they add value.
+* Engage in team activities like learning sessions, experience sharing, and workshops.
 
-## How we do it
+## How we work
 
-We use this tech:
-* Typescript, React, Redux, Axios, Sass (BEM)
-* Symfony/Tailwind for the self-served customer onboarding process
-* Git, GitHub
-* Vercel for hosting our SPA app
-* Sentry for monitoring
-* shell scripts for task automation
+Our tech stack includes:
+* Frontend: TypeScript, React, Redux, Axios, Sass (BEM).
+* Backend: Symfony/Tailwind for the self-service onboarding process.
+* Tools: Git, GitHub, Vercel (SPA hosting), Sentry (monitoring), shell scripts (task automation).
 
-We write tests, do code reviews or pair-programming, champion trunk-based development. Divide and conquer - make small things work as fast as possible. Think about the bigger picture. We do a lot of experiments. We are agile, and by that I do not mean scrum.
+We prioritize quality through code reviews, pair programming, and trunk-based development. We favor experimentation, small working increments, and big-picture thinking. Agile, but not Scrum.
 
-## What do we expect from you
+## What we expect from you
 
-We want a valuable and engaged team member. You should feel and be aligned with what value we provide as a company and act accordingly.
-* collaborate closely with your team mates
-* be proactive, participate in discussions when finding a solution to a problem, listen to feedback
-* take ownership of tasks, be flexible with evolving needs
+We want a valuable and engaged team member who aligns with Outfindo's mission and values. You need to feel what value we provide as a company.
+
+You should be
+* Collaborative, working closely with teammates to solve problems and deliver value.
+* Proactive, participating in discussions and offering thoughtful feedback.
+* Flexible and ready to take ownership of tasks as priorities evolve.
 
 You should have quite a bit of tech experience as well:
-* maintaining a React SPA app including architecture, API integration, data models, SSR, performance optimization
-* coding components with a sense of design and UX
-* bridging the gap between the design and development - translate mockups into responsive intuitive interfaces
-* analysing a problem, splitting it into smaller chunks and proposing a solution
-* writing maintainable code, making development process better
+* Maintaining a React SPA, including architecture, API integration, SSR, data models and performance optimization.
+* Building components with an eye for design and UX.
+* Translating mockups into responsive, intuitive interfaces.
+* Analyzing problems, breaking them into manageable tasks, and proposing solutions.
+* Writing maintainable code and improving the development process.
 
-In a nutshell, I think you should be an experienced developer with 5 years of experience at least, focused on team-work, effectivity and delivering value for the company.
+We're looking for someone with at least 5 years of experience who thrives on teamwork, effectiveness, and delivering real value.
 
-We will get along if we share team values.
+We will get along if we share these team values:
 * Our team is open-minded, inclusive, passionate.
-* We help each other and trust each other to do the best job possible.
+* We help and trust each other to do our best work.
 * We are always learning and trying to stay ahead.
-* We respect each other and listen to one another.
+* We respect and listen to each another.
 * Creativity, passion, ambition and Outfindo goals drive us forward. We depend on each other's reliability.
 
-This may be one of the tasks or topics for you to start thinking about when you join us.
-* coding the app with the best UX for our customers
-* maintaining the design system, component library, style guide
-* better data models, tighter integration with e.g. OpenAPI specs
-* managing quality - e.g. start setting up automated tests
-* feature-toggle based architecture
-* dockerization, GitHub Actions CI pipeline, better monitoring
-* performance optimization, accessibility, SEO
+Here are some tasks or topics you might dive into when you join us:
+* Developing the app to deliver the best UX for our customers.
+* Maintaining the design system, component library, and style guide.
+* Improving data models and tightening integration with tools like OpenAPI specs.
+* Managing quality by, for example, setting up automated tests.
+* Implementing feature-toggle-based architecture.
+* Enhancing our processes through Dockerization, GitHub Actions CI pipelines, and better monitoring.
+* Optimizing performance, accessibility, and SEO.
 
-## What do we offer
+## What we offer
 
-* money - not garage-startup money, not corporate-level money either, but we want you to be comfortable
-* base plus bonuses tied to KPIs
-* stock options for you to get what is yours when Outfindo gets successful
-* all the help we can provide to get you going - let us know
-* regular mentoring and leadership, knowledge sharing with the rest of the wider tech team, can go both ways - we can all learn from each other
-* stress-free work environment
-* monthly team events - bike in summer, climbing in winter, off-sites once or twice a year
+* Money - not garage-startup money, not corporate-level money either, but we want you to be comfortable.
+* Bonuses tied to KPIs.
+* Stock options: Share in Outfindo’s success.
+* Support and mentoring: We’re here to help you succeed.
+* Knowledge-sharing: Regular sessions to learn from and with your team.
+* Stress-free environment.
+* Monthly team events: biking in summer, climbing in winter, off-sites once or twice a year
 
 We are based in Prague with office in Žižkov.
 Remote work is alright, but we prefer to see each other regularly to be effective and have some fun. Communication is the key.
