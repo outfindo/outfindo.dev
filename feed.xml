@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://outfindo.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://outfindo.dev/" rel="alternate" type="text/html" /><updated>2024-12-05T10:53:04+00:00</updated><id>https://outfindo.dev/feed.xml</id><title type="html">outfindo.dev</title><subtitle>Creating great product, matching people with bikes.</subtitle><author><name>Outfindo</name></author><entry><title type="html">Senior frontend engineer, Typescript &amp;amp; React, Prague</title><link href="https://outfindo.dev/2024-12-05/frontend-engineer-typescript-react" rel="alternate" type="text/html" title="Senior frontend engineer, Typescript &amp;amp; React, Prague" /><published>2024-12-05T00:00:00+00:00</published><updated>2024-12-05T00:00:00+00:00</updated><id>https://outfindo.dev/2024-12-05/frontend-engineer-typescript-react</id><content type="html" xml:base="https://outfindo.dev/2024-12-05/frontend-engineer-typescript-react">&lt;p&gt;&lt;img src=&quot;/assets/bricks/2.jpg&quot; alt=&quot;Team&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;We’re looking for a frontend engineer to own the frontend of our apps full-time, ideally in Prague. Join us to build something meaningful with the right people in an engaged and agile team. We offer challenge, opportunity, and support. Great team, no stress, competitive pay, and stock options. Tech stack: TypeScript, React, Tailwind, Symfony, Vercel.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We’re building the best SaaS product guidance app and need your help with the frontend!&lt;/p&gt;
+
+&lt;p&gt;Join our awesome &lt;a href=&quot;/team&quot;&gt;team&lt;/a&gt; as we scale up our tech team.
+We are in a phase where we know what to build, have a ton of ideas, interesting portfolio of clients and an ambition to scale our business through automated self-served channels such as Shopify.&lt;/p&gt;
+
+&lt;p&gt;This is an &lt;strong&gt;opportunity to do things the way you want, to learn a lot&lt;/strong&gt;, and to be part of the formative period of our company.
+If you help us to make it, there’s a lot in it for you as well. &lt;strong&gt;There is a challenge here waiting for you.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do&lt;/h2&gt;
+
+&lt;p&gt;Outfindo guides online shoppers in choosing the right products—whether it’s a bike or a bra. Our core know-how is guidance, building a conversation-like flow for the end customer. We&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Onboard clients (e-shops) and process their inventory.&lt;/li&gt;
+  &lt;li&gt;Use our custom AI tech to build guidance flows tailored to their products.&lt;/li&gt;
+  &lt;li&gt;Enhance product data using autonomous scrapers and LLMs.&lt;/li&gt;
+  &lt;li&gt;Deliver guides that integrate seamlessly into our clients’ websites, creating value for their customers.
+See &lt;a href=&quot;https://outfindo.com&quot;&gt;outfindo.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Read about us here:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eu-startups.com/2023/08/prague-based-outfindo-secures-e900k-to-make-product-selection-easy-with-ai-driven-shopping-guides/&quot;&gt;EU-Startups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://therecursive.com/czech-ai-powered-e-commerce-startup-outfindo-secures-e900k-seed-round/&quot;&gt;The Recursive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archiv.hn.cz/c7-67231900-rs7eo-314c5af63be1c4d&quot;&gt;Hospodářské noviny&lt;/a&gt; (czech language)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-will-you-do&quot;&gt;What will you do&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Implement frontend changes based on well-researched user stories from our product manager, &lt;a href=&quot;/team#adlo&quot;&gt;Adlo&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Build intuitive UX based on designs from our designer.&lt;/li&gt;
+  &lt;li&gt;Participate on product decisions during early phases of dev process - we are not a &lt;a href=&quot;https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory&quot;&gt;feature factory&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Pair-program and review code with &lt;a href=&quot;/team#franta&quot;&gt;Franta&lt;/a&gt; so that you can learn from each other.&lt;/li&gt;
+  &lt;li&gt;Regularly refactor to tackle tech debt.&lt;/li&gt;
+  &lt;li&gt;Ship small, incremental changes using feature toggles for continuous deployment.&lt;/li&gt;
+  &lt;li&gt;Make architecture decisions and explore new technologies when they add value.&lt;/li&gt;
+  &lt;li&gt;Engage in team activities like learning sessions, experience sharing, and workshops.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-we-work&quot;&gt;How we work&lt;/h2&gt;
+
+&lt;p&gt;Our tech stack includes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Frontend: TypeScript, React, Redux, Axios, Sass (BEM).&lt;/li&gt;
+  &lt;li&gt;Backend: Symfony/Tailwind for the self-service onboarding process.&lt;/li&gt;
+  &lt;li&gt;Tools: Git, GitHub, Vercel (SPA hosting), Sentry (monitoring), shell scripts (task automation).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We prioritize quality through code reviews, pair programming, and trunk-based development. We favor experimentation, small working increments, and big-picture thinking. Agile, but not Scrum.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-expect-from-you&quot;&gt;What we expect from you&lt;/h2&gt;
+
+&lt;p&gt;We want a valuable and engaged team member who aligns with Outfindo’s mission and values. You need to feel what value we provide as a company.&lt;/p&gt;
+
+&lt;p&gt;You should be&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Collaborative, working closely with teammates to solve problems and deliver value.&lt;/li&gt;
+  &lt;li&gt;Proactive, participating in discussions and offering thoughtful feedback.&lt;/li&gt;
+  &lt;li&gt;Flexible and ready to take ownership of tasks as priorities evolve.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You should have quite a bit of tech experience as well:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Maintaining a React SPA, including architecture, API integration, SSR, data models and performance optimization.&lt;/li&gt;
+  &lt;li&gt;Building components with an eye for design and UX.&lt;/li&gt;
+  &lt;li&gt;Translating mockups into responsive, intuitive interfaces.&lt;/li&gt;
+  &lt;li&gt;Analyzing problems, breaking them into manageable tasks, and proposing solutions.&lt;/li&gt;
+  &lt;li&gt;Writing maintainable code and improving the development process.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’re looking for someone with at least 5 years of experience who thrives on teamwork, effectiveness, and delivering real value.&lt;/p&gt;
+
+&lt;p&gt;We will get along if we share these team values:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Our team is open-minded, inclusive, passionate.&lt;/li&gt;
+  &lt;li&gt;We help and trust each other to do our best work.&lt;/li&gt;
+  &lt;li&gt;We are always learning and trying to stay ahead.&lt;/li&gt;
+  &lt;li&gt;We respect and listen to each another.&lt;/li&gt;
+  &lt;li&gt;Creativity, passion, ambition and Outfindo goals drive us forward. We depend on each other’s reliability.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some tasks or topics you might dive into when you join us:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Developing the app to deliver the best UX for our customers.&lt;/li&gt;
+  &lt;li&gt;Maintaining the design system, component library, and style guide.&lt;/li&gt;
+  &lt;li&gt;Improving data models and tightening integration with tools like OpenAPI specs.&lt;/li&gt;
+  &lt;li&gt;Managing quality by, for example, setting up automated tests.&lt;/li&gt;
+  &lt;li&gt;Implementing feature-toggle-based architecture.&lt;/li&gt;
+  &lt;li&gt;Enhancing our processes through Dockerization, GitHub Actions CI pipelines, and better monitoring.&lt;/li&gt;
+  &lt;li&gt;Optimizing performance, accessibility, and SEO.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-offer&quot;&gt;What we offer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Money - not garage-startup money, not corporate-level money either, but we want you to be comfortable.&lt;/li&gt;
+  &lt;li&gt;Bonuses tied to KPIs.&lt;/li&gt;
+  &lt;li&gt;Stock options: Share in Outfindo’s success.&lt;/li&gt;
+  &lt;li&gt;Support and mentoring: We’re here to help you succeed.&lt;/li&gt;
+  &lt;li&gt;Knowledge-sharing: Regular sessions to learn from and with your team.&lt;/li&gt;
+  &lt;li&gt;Stress-free environment.&lt;/li&gt;
+  &lt;li&gt;Monthly team events: biking in summer, climbing in winter, off-sites once or twice a year&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are based in Prague with office in Žižkov.
+Remote work is alright, but we prefer to see each other regularly to be effective and have some fun. Communication is the key.
+We have good-enough office, we make good filtered coffee and we love cookies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If this resonates with you let us know - even if you are not sure about some of this stuff or about yourself. We are ready to help you if you want to work with us.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Write an email to &lt;a href=&quot;mailto:ondrej.bouda@outfindo.com&quot;&gt;ondrejbouda@outfindo.com&lt;/a&gt; or grab a phone and call &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřej&lt;/a&gt; directly: +420724532118.&lt;/p&gt;</content><author><name>Outfindo</name></author><category term="Jobs" /><summary type="html">TL;DR We’re looking for a frontend engineer to own the frontend of our apps full-time, ideally in Prague. Join us to build something meaningful with the right people in an engaged and agile team. We offer challenge, opportunity, and support. Great team, no stress, competitive pay, and stock options. Tech stack: TypeScript, React, Tailwind, Symfony, Vercel.</summary></entry><entry><title type="html">Senior backend engineer, PHP, Python &amp;amp; PostgreSQL, Praha</title><link href="https://outfindo.dev/2024-08-01/backend-engineer-en" rel="alternate" type="text/html" title="Senior backend engineer, PHP, Python &amp;amp; PostgreSQL, Praha" /><published>2024-08-01T00:00:00+00:00</published><updated>2024-08-01T00:00:00+00:00</updated><id>https://outfindo.dev/2024-08-01/backend-engineer-en</id><content type="html" xml:base="https://outfindo.dev/2024-08-01/backend-engineer-en">&lt;p&gt;&lt;img src=&quot;/assets/midjourney/emma_outfindo_man_helping_a_woman_working_together_at_single_co_70ea41df-666b-41a5-abe9-a4df855bed32.png&quot; alt=&quot;Software engineers&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;
+&lt;strong&gt;We want you with your experience to take care of our backend, data processes, internal tools and primary data structure. Non-boring, actaully usefull, satisfying work with creative freedom. We will get you challenge, opportunity and help. We believe we are a great team, there is no stress, good money and/or stock options. We write maintainable code and architecture and stable infrastructure.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We have a reasonable tech team already. We build an API and internal tools in PHP and data-oriented services using LLMs in Python. But there is still a lot to do to connect all the components and make the processes work for the company to benefit from them.&lt;/p&gt;
+
+&lt;p&gt;Join our awesome &lt;a href=&quot;/team&quot;&gt;team&lt;/a&gt;!
+We have a lot of work with onboarding new customers, but our main goal is total automation of all processes. We have a plan and need some fresh blood to be able to deliver the innovations.&lt;/p&gt;
+
+&lt;p&gt;This is an &lt;strong&gt;opportunity to do things the way you want, to learn a lot&lt;/strong&gt;, and to be part of the exciting period of our company.
+If you help us to make it, there’s a lot in it for you as well. &lt;strong&gt;There is a challenge here waiting for you.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do&lt;/h2&gt;
+
+&lt;p&gt;Outfindo guides a customer through the process of choosing a complex product online - be it a bike or a bra. Our core know-how is guidance, building a coversation-like flow for the end customer. We&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;onboard our customer (an e-shop), process their inventory&lt;/li&gt;
+  &lt;li&gt;build a guidance flow for them using our custom AI tech&lt;/li&gt;
+  &lt;li&gt;enhance product data to gain insights, using autonomous scrapers and LLMs&lt;/li&gt;
+  &lt;li&gt;build a guide that helps the end-customers and embed that into our partners’ websites
+See &lt;a href=&quot;https://outfindo.com&quot;&gt;outfindo.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Read about us here:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eu-startups.com/2023/08/prague-based-outfindo-secures-e900k-to-make-product-selection-easy-with-ai-driven-shopping-guides/&quot;&gt;EU-Startups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://therecursive.com/czech-ai-powered-e-commerce-startup-outfindo-secures-e900k-seed-round/&quot;&gt;The Recursive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archiv.hn.cz/c7-67231900-rs7eo-314c5af63be1c4d&quot;&gt;Hospodářské noviny&lt;/a&gt; (czech language)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-will-you-do&quot;&gt;What will you do&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;take care of our primary data structures&lt;/li&gt;
+  &lt;li&gt;optimize processes, automate, integrate&lt;/li&gt;
+  &lt;li&gt;build internal tools, APIs and customer-facing portal as well&lt;/li&gt;
+  &lt;li&gt;think out-of-the box about how to make things smarter!&lt;/li&gt;
+  &lt;li&gt;maintain infrastructure - linux servers, Postgre DB etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;It may sound a little boring, but actually I think it is anything but! When you invest your energy into the right thing, you can finish your work in the afternoon with immediate results helping our customers.&lt;/strong&gt; Which is satisifying, or always has been for me.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-we-do-it&quot;&gt;How we do it&lt;/h2&gt;
+
+&lt;p&gt;We use this tech:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;PostgreSQL 15 database, mixed relational/non-relational approach (json)&lt;/li&gt;
+  &lt;li&gt;PHP 8.3 with Symfony&lt;/li&gt;
+  &lt;li&gt;Elasticsearch&lt;/li&gt;
+  &lt;li&gt;Python 3.11, Scrapy, Numpy, Pytorch, Tensorflow, Polars, Seaborn, Jupyter notebook&lt;/li&gt;
+  &lt;li&gt;Airflow, Linux-based servers, Docker, automated CI/CD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We write tests, do code reviews or pair-programming, champion trunk-based development. Divide and conquer - make small things work as fast as possible. Think about the bigger picture. We do a lot of experiments to confirm hypotheses. When successful, we integrate the proof-of-concept into existing processes. We are agile, and by that I do not mean scrum.&lt;/p&gt;
+
+&lt;p&gt;This may be one of the topics for you to start thinking about when you join us.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;automating and wiring services together&lt;/li&gt;
+  &lt;li&gt;using AI for small tasks to classify data, suggest configuration etc.&lt;/li&gt;
+  &lt;li&gt;high-level architecture - splitting various functionality into separate and meaningful (micro)services&lt;/li&gt;
+  &lt;li&gt;how to design data flows? S3? Queues? APIs?&lt;/li&gt;
+  &lt;li&gt;scalability, maintainability (developer UX), stability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-do-we-expect-from-you&quot;&gt;What do we expect from you&lt;/h2&gt;
+
+&lt;p&gt;You should have quite a bit of experience&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;analysing a problem, splitting it into smaller chunks and designing a process&lt;/li&gt;
+  &lt;li&gt;maintaining a larger system such as ours&lt;/li&gt;
+  &lt;li&gt;maintaining infrastructure - database, linux servers&lt;/li&gt;
+  &lt;li&gt;writing maintainable code, making development process better
+In a nutshell, I think you should be an experienced developer with 5-10 years of experience at least, focused on effectivity and delivering value for the company.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will get along if we share team values.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Our team is open-minded, inclusive, passionate.&lt;/li&gt;
+  &lt;li&gt;We help each other and trust each other to do the best job possible.&lt;/li&gt;
+  &lt;li&gt;We are always learning and trying to stay ahead.&lt;/li&gt;
+  &lt;li&gt;We respect each other and listen to one another.&lt;/li&gt;
+  &lt;li&gt;Creativity, passion, ambition and Outfindo goals drive us forward. We depend on each other’s reliability.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-do-we-offer&quot;&gt;What do we offer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;money - not garage-startup money, not corporate-level money either, but we want you to be comfortable (CZK 150k+)&lt;/li&gt;
+  &lt;li&gt;stock options for you to get what is yours when Outfindo gets successful&lt;/li&gt;
+  &lt;li&gt;all the help we can provide to get you going - let us know&lt;/li&gt;
+  &lt;li&gt;regular mentoring and leadership by &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřej&lt;/a&gt;, can go both ways - we can all learn from each other&lt;/li&gt;
+  &lt;li&gt;stress-free work environment - there are no “crunches”, no time estimates, no hard commitments to deliver changes at certain time&lt;/li&gt;
+  &lt;li&gt;monthly team events - bike in summer, climbing in winter, off-sites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are based in Prague with office in Žižkov.
+Remote work is alright, but we prefer to see each other regularly to be effective and have some fun.
+We have good-enough office, we make good filtered coffee and we love cookies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If this resonates with you let us know!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Write an email to &lt;a href=&quot;mailto:ondrej.bouda@outfindo.com&quot;&gt;ondrej.bouda@outfindo.com&lt;/a&gt; or grab a phone and call &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřej&lt;/a&gt; directly: +420724532118.&lt;/p&gt;</content><author><name>Outfindo</name></author><category term="Jobs" /><summary type="html">TL;DR We want you with your experience to take care of our backend, data processes, internal tools and primary data structure. Non-boring, actaully usefull, satisfying work with creative freedom. We will get you challenge, opportunity and help. We believe we are a great team, there is no stress, good money and/or stock options. We write maintainable code and architecture and stable infrastructure.</summary></entry><entry><title type="html">Senior data engineer, Python &amp;amp; PostgreSQL, Praha</title><link href="https://outfindo.dev/2023-08-08/data-engineer-en" rel="alternate" type="text/html" title="Senior data engineer, Python &amp;amp; PostgreSQL, Praha" /><published>2023-08-08T00:00:00+00:00</published><updated>2023-08-08T00:00:00+00:00</updated><id>https://outfindo.dev/2023-08-08/data-engineer-en</id><content type="html" xml:base="https://outfindo.dev/2023-08-08/data-engineer-en">&lt;p&gt;&lt;img src=&quot;/assets/midjourney/emma_outfindo_man_helping_a_woman_working_together_at_single_co_70ea41df-666b-41a5-abe9-a4df855bed32.png&quot; alt=&quot;Software engineers&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;
+&lt;strong&gt;We want you with your experience to take care of our data processes, internal tools and primary data structure. Non-boring, actaully usefull, satisfying work with creative freedom. We will get you challenge, opportunity and help. We believe we are a great team, there is no stress, good money and/or stock options. We write maintanable code and architecture and stable infrastructure.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We have a reasonable data team already. We build ETL pipelines in Airflow, use AI/ML in all aspects of our work. But there is still a lot to do to connect all the components and make the processes work for the company to benefit from them.&lt;/p&gt;
+
+&lt;p&gt;Join our awesome &lt;a href=&quot;/team&quot;&gt;team&lt;/a&gt;!
+The infant hacky years of Outfindo are over, we are sure about what we need to build now.&lt;/p&gt;
+
+&lt;p&gt;This is an &lt;strong&gt;opportunity to do things the way you want, to learn a lot&lt;/strong&gt;, and to be part of the formative period of our company.
+If you help us to make it, there’s a lot in it for you as well. &lt;strong&gt;There is a challenge here waiting for you.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do&lt;/h2&gt;
+
+&lt;p&gt;Outfindo guides a customer through the process of choosing a complex product, be it a bike or a washing machine. We know all the products and we know where to buy it. We&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;build a product catalog from various sources, automating the whole process using AI&lt;/li&gt;
+  &lt;li&gt;enhance the data to gain insight, using large language models&lt;/li&gt;
+  &lt;li&gt;get availability data from shops/eshops and match them with our catalog using ML&lt;/li&gt;
+  &lt;li&gt;build a guide that helps the end-customers and embed that into our partners’ websites&lt;/li&gt;
+  &lt;li&gt;actively research and prototype new and fun ways of assistance for the customer to get product insight
+See &lt;a href=&quot;https://outfindo.com&quot;&gt;outfindo.com&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The company just got money in and is set for the next phase. Read about us here:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eu-startups.com/2023/08/prague-based-outfindo-secures-e900k-to-make-product-selection-easy-with-ai-driven-shopping-guides/&quot;&gt;EU-Startups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://therecursive.com/czech-ai-powered-e-commerce-startup-outfindo-secures-e900k-seed-round/&quot;&gt;The Recursive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archiv.hn.cz/c7-67231900-rs7eo-314c5af63be1c4d&quot;&gt;Hospodářské noviny&lt;/a&gt; (czech language)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-will-you-do&quot;&gt;What will you do&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;take care of our primary data structures, ETL pipelines and components&lt;/li&gt;
+  &lt;li&gt;optimize processes, automate, integrate&lt;/li&gt;
+  &lt;li&gt;think out-of-the box about how to make things smarter!&lt;/li&gt;
+  &lt;li&gt;maintain infrastructure - linux servers, Postgre DB etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;It may sound a little boring, but actually I think it is anything but! When you invest your energy into the right thing, you can finish your work in the afternoon with immediate results helping our customers.&lt;/strong&gt; Which is satisifying, or always has been for me.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-we-do-it&quot;&gt;How we do it&lt;/h2&gt;
+
+&lt;p&gt;We use this tech:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;PostgreSQL 15 database, mixed relational/non-relational approach (json)&lt;/li&gt;
+  &lt;li&gt;Python 3.11, Scrapy, Numpy, Pytorch, Tensorflow, Polars, Seaborn, Jupyter notebook&lt;/li&gt;
+  &lt;li&gt;Airflow, Linux-based servers, Docker, automated CI/CD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We test using Pytest, do code reviews or pair-programming, champion trunk-based development. Divide and conquer - make small things work as fast as possible. Think about the bigger picture. We do a lot of experiments to confirm hypotheses. When successful, we integrate the proof-of-concept into existing processes. We are agile, and by that I do not mean scrum.&lt;/p&gt;
+
+&lt;p&gt;This may be one of the topics for you to start thinking about when you join us.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;high-level architecture - splitting various functionality into separate and meaningful (micro)services&lt;/li&gt;
+  &lt;li&gt;how to design data flows? S3? Queues? APIs?&lt;/li&gt;
+  &lt;li&gt;scalability, maintainability (developer UX), stability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-do-we-expect-from-you&quot;&gt;What do we expect from you&lt;/h2&gt;
+
+&lt;p&gt;You should have quite a bit of experience&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;analysing a problem, spliting it into smaller chunks and designing a process&lt;/li&gt;
+  &lt;li&gt;maintaining a larger system such as ours&lt;/li&gt;
+  &lt;li&gt;maintaining infrastructure - database, linux servers&lt;/li&gt;
+  &lt;li&gt;writing maintainable code, making development process better&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will get along if we share team values.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Our team is open-minded, inclusive, passionate.&lt;/li&gt;
+  &lt;li&gt;We help each other and trust each other to do the best job possible.&lt;/li&gt;
+  &lt;li&gt;We are always learning and trying to stay ahead.&lt;/li&gt;
+  &lt;li&gt;We respect each other and listen to one another.&lt;/li&gt;
+  &lt;li&gt;Creativity, passion, ambition and Outfindo goals drive us forward. We depend on each other’s reliability.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-do-we-offer&quot;&gt;What do we offer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;money - not garage-startup money, not corporate-level money either, but we want you to be comfortable (CZK 100k+)&lt;/li&gt;
+  &lt;li&gt;stock options for you to get what is yours when Outfindo gets successful&lt;/li&gt;
+  &lt;li&gt;all the help we can provide to get you going - let us know&lt;/li&gt;
+  &lt;li&gt;regular mentoring and leadership by &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřej&lt;/a&gt;, can go both ways - we can all learn from each other&lt;/li&gt;
+  &lt;li&gt;stress-free work environment - there are no “crunches”, no time estimates, no hard commitments to deliver changes at certain time&lt;/li&gt;
+  &lt;li&gt;monthly team events - bike in summer, climbing in winter, off-sites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are based in Prague with office in Žižkov.
+Remote work is alright, but we prefer to see each other regularly to be effective and have some fun, more so after two years of Covid isolation.
+We have good-enough office, we make good filtered coffee and we love cookies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If this resonates with you let us know!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Write an email to &lt;a href=&quot;mailto:ondrej.bouda@outfindo.com&quot;&gt;ondrej.bouda@outfindo.com&lt;/a&gt; or grab a phone and call &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřej&lt;/a&gt; directly: +420724532118.&lt;/p&gt;</content><author><name>Outfindo</name></author><category term="Jobs" /><summary type="html">TL;DR We want you with your experience to take care of our data processes, internal tools and primary data structure. Non-boring, actaully usefull, satisfying work with creative freedom. We will get you challenge, opportunity and help. We believe we are a great team, there is no stress, good money and/or stock options. We write maintanable code and architecture and stable infrastructure.</summary></entry><entry><title type="html">Data analyst, BI, data quality engineer</title><link href="https://outfindo.dev/2023-07-19/data-analyst-bi" rel="alternate" type="text/html" title="Data analyst, BI, data quality engineer" /><published>2023-07-19T00:00:00+00:00</published><updated>2023-07-19T00:00:00+00:00</updated><id>https://outfindo.dev/2023-07-19/data-analyst-bi</id><content type="html" xml:base="https://outfindo.dev/2023-07-19/data-analyst-bi">&lt;p&gt;&lt;img src=&quot;/assets/bricks/1.jpg&quot; alt=&quot;Team&quot; /&gt;
+&lt;br /&gt;
+&lt;strong&gt;TL;DR&lt;/strong&gt;
+&lt;strong&gt;We want you to help us with data quality, data analytics and visualisation, full-time, based in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, no stress, good money. Clean code, SQL, Python, data visualisation tools&lt;/strong&gt;
+&lt;!--more--&gt;
+There’s currently only one BI / data analytics guy doing all the work. He needs a partner!&lt;/p&gt;
+
+&lt;p&gt;Join our awesome &lt;a href=&quot;/team&quot;&gt;team&lt;/a&gt;! We are scaling our operations right now.
+The infant hacky three years of Outfindo are over, we are reasonably sure about what we need to build now.&lt;/p&gt;
+
+&lt;p&gt;This is an &lt;strong&gt;opportunity to do things the way you want, to learn a lot&lt;/strong&gt;, and to be part of the formative period of our company.
+If you help us to make it, there’s a lot in it for you as well. &lt;strong&gt;There is a challenge here waiting for you.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do&lt;/h2&gt;
+&lt;p&gt;Outfindo helps people to choose products online - we sell our products as a SaaS to our partners and also have our own B2C platform outfindo.cz. We can connect customers and partners needs with product data. We&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;build a product catalog from various sources, automating the whole process&lt;/li&gt;
+  &lt;li&gt;enhance the data to gain insight using classification based on expert know-how&lt;/li&gt;
+  &lt;li&gt;obtain availability data from shops/eshops and match them with our catalog&lt;/li&gt;
+  &lt;li&gt;build a guide which helps customers to find the right product&lt;/li&gt;
+  &lt;li&gt;build a tools which we embed to our customers websites&lt;/li&gt;
+  &lt;li&gt;actively research and prototype new and fun ways of assistance for the customer to get product insight&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More about us also here:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cc.cz/online-pruvodce-koupi-kola-ma-dalsi-investici-penize-opet-posila-i-nejvyse-postaveny-cech-v-showbyznysu/&quot;&gt;CzechCrunch.cz - Online průvodce koupí kola má další investici. Peníze opět posílá i nejvýše postavený Čech v showbyznysu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forbes.cz/topmanazery-lakaji-kola-kyncl-pousti-do-outfindo-dalsi-miliony-a-inspiruje-ostatni/&quot;&gt;Forbes.cz - Topmanažery lákají kola. Kyncl a další investoři pouští do Outfindo desítky milionů&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;what-will-you-do&quot;&gt;What will you do&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;examine data, looking for irregularities, outliers, duplicities and other unwanted errors&lt;/li&gt;
+  &lt;li&gt;automate data enhancement processes&lt;/li&gt;
+  &lt;li&gt;integrate various data sources into one database&lt;/li&gt;
+  &lt;li&gt;clean data in order to analyse them and prepare them for visualisation&lt;/li&gt;
+  &lt;li&gt;build a dashboards and reports based on the inputs fron other teams&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-tech--tools-do-we-use&quot;&gt;What tech / tools do we use&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;SQL&lt;/li&gt;
+  &lt;li&gt;PostgreSQL database&lt;/li&gt;
+  &lt;li&gt;Git, GitHub&lt;/li&gt;
+  &lt;li&gt;Airflow&lt;/li&gt;
+  &lt;li&gt;Hubspot, Ecomail, GA4, LinkedIn (example of tools from which we intregrate data)&lt;/li&gt;
+  &lt;li&gt;Data visualisation tool to be decided (currently Google Looker Studio)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-are-starting-or-planning-to-do-may-be-one-of-your-tasks&quot;&gt;What we are starting or planning to do (may be one of your tasks)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;automated data quality processes (SQL / Python / Airflow)&lt;/li&gt;
+  &lt;li&gt;better monitoring of the outcomes of our data pipelines&lt;/li&gt;
+  &lt;li&gt;alerting - automatically identify possible data errors and visualize / report them&lt;/li&gt;
+  &lt;li&gt;building sales performance dashboards with detailed drill down options&lt;/li&gt;
+  &lt;li&gt;analyze customers behavior while using our products&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-do-we-expect-from-you&quot;&gt;What do we expect from you&lt;/h2&gt;
+&lt;p&gt;Our team is open-minded, inclusive, passionate. We help each other and trust each other to do the best job possible.
+We are always learning and trying to stay ahead. We respect each other and listen to one another.
+Creativity, passion, ambition and Outfindo goals drive us forward. We depend on each other’s reliability.&lt;/p&gt;
+
+&lt;p&gt;We will get along well if you
+*fluent in SQL, basics in Python&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;know how to code - have previous coding experience (not necessarily aligned with our tech), probably with some of your code running in production&lt;/li&gt;
+  &lt;li&gt;have experience with data analytics and visualisation&lt;/li&gt;
+  &lt;li&gt;are able of abstract thinking, can solve problems with algorhythms&lt;/li&gt;
+  &lt;li&gt;want to fix things rather than wait for someone else to do it&lt;/li&gt;
+  &lt;li&gt;ask for help if you don’t know what to do - we are ready to help you&lt;/li&gt;
+  &lt;li&gt;It is ok to not be sure about some of these things. We are all learning along the way.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-do-we-offer&quot;&gt;What do we offer&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;money - not garage-startup money, not corporate-level money either, but we want you to be comfortable (40-60k)&lt;/li&gt;
+  &lt;li&gt;all the help we can provide to get you going - let us know&lt;/li&gt;
+  &lt;li&gt;regular mentoring and leadership by &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřej&lt;/a&gt;, can go both ways - we can all learn from each other&lt;/li&gt;
+  &lt;li&gt;stress-free work environment - there are no “crunches”, no time estimates, no hard commitments to deliver changes at certain time&lt;/li&gt;
+  &lt;li&gt;monthly team events - bike in summer, climbing in winter, off-sites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are based in Prague with office in Žižkov.
+Remote work is alright, but we prefer to see each other regularly to be effective and have some fun, more so after two years of Covid isolation.
+We have comfy chairs, whiteboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If this resonates with you let us know - even if you are not sure about some of this stuff or about yourself. We are ready to help you if you want to work with us.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Write an email to &lt;a href=&quot;mailto:hiring@outfindo.com&quot;&gt;hiring@outfindo.com&lt;/a&gt; or grab a phone and call &lt;a href=&quot;/team#martin&quot;&gt;Martin&lt;/a&gt; directly: +420725079630.&lt;/p&gt;</content><author><name>Outfindo</name></author><category term="Jobs" /><summary type="html">TL;DR We want you to help us with data quality, data analytics and visualisation, full-time, based in Prague. Want to do this right, with the right people. Will get you challenge, opportunity and help. Great team, no stress, good money. Clean code, SQL, Python, data visualisation tools</summary></entry><entry><title type="html">Data engineer, Python &amp;amp; PostgreSQL, Praha</title><link href="https://outfindo.dev/2023-06-27/data-engineer" rel="alternate" type="text/html" title="Data engineer, Python &amp;amp; PostgreSQL, Praha" /><published>2023-06-27T00:00:00+00:00</published><updated>2023-06-27T00:00:00+00:00</updated><id>https://outfindo.dev/2023-06-27/data-engineer</id><content type="html" xml:base="https://outfindo.dev/2023-06-27/data-engineer">&lt;p&gt;&lt;img src=&quot;/assets/bricks/4.jpg&quot; alt=&quot;Team&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;Potřebujeme pomoct s vývojem našich datových procesů, interních nástrojů a péčí o strukturu našich primárních dat. Nabídneme ti volnost v rozhodování, příležitosti k růstu a podporu našeho týmu. Chceme, abys byl/a zkušený/á v dané oblasti.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Go to &lt;a href=&quot;/2023-08-08/data-engineer-en&quot;&gt;english version&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Máme už celkem rozumný data tým. Stavíme ETL pipeline v Airflow, scrapujeme weby, používáme AI/ML ve všech oblastech naší činnosti. Ale je toho moc a potřebujeme pomoct to všechno propojit.&lt;/p&gt;
+
+&lt;p&gt;Přidej se k našemu super &lt;a href=&quot;/team&quot;&gt;týmu&lt;/a&gt;!
+Máme za sebou tři roky startup hackování a teď už rozumně víme, co potřebujeme dál dělat.&lt;/p&gt;
+
+&lt;p&gt;Můžeš to brát jako &lt;strong&gt;příležitost dělat věci po svém a hodně se toho naučit&lt;/strong&gt;. Být součástí (pořád ještě) malého týmu, kde jde hlavně o to vymyslet, jak věci udělat efektivně.
+Pomož nám se dostat dál na naší cestě!&lt;/p&gt;
+
+&lt;h2 id=&quot;co-děláme&quot;&gt;Co děláme&lt;/h2&gt;
+
+&lt;p&gt;Outfindo pomáhá lidem vybrat zboží v online prostředí - skrz produkty, které jako SaaS prodáváme našim partnerům a skrz naši platformu &lt;strong&gt;&lt;a href=&quot;https://outfindo.cz&quot;&gt;outfindo.cz&lt;/a&gt;&lt;/strong&gt;.
+Umíme spojit potřeby zákazníků a prodjeců a produktová data.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;budujeme produktový katalog z mnoha zdrojů, automatizovaně&lt;/li&gt;
+  &lt;li&gt;obohacujeme data za příspění expertů v oboru tak, aby koncový zákazník nemusel studovat technické parametry&lt;/li&gt;
+  &lt;li&gt;získáváme data o dostupnosti zboží v eshopech a položky matchujeme s naším katalogem&lt;/li&gt;
+  &lt;li&gt;budujeme průvodce, který zákazníka provede výběrem produktů&lt;/li&gt;
+  &lt;li&gt;budujeme nástroje, které embedujeme do webů našich partnerů&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Víc o nás třeba i tady:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archiv.hn.cz/c7-67231900-rs7eo-314c5af63be1c4d&quot;&gt;Hospodářské noviny&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eu-startups.com/2023/08/prague-based-outfindo-secures-e900k-to-make-product-selection-easy-with-ai-driven-shopping-guides/&quot;&gt;EU-Startups&lt;/a&gt; (v angličtině)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;co-budeš-dělat&quot;&gt;Co budeš dělat&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;starat se o strukturu našich primárních dat&lt;/li&gt;
+  &lt;li&gt;starat se o ETL pipelines, které zpracovávají produktová data a data a dostupnost produktů na trhu&lt;/li&gt;
+  &lt;li&gt;integrovat různé datové zdroje - přes 200 zdrojů (web scrapy, feedy)&lt;/li&gt;
+  &lt;li&gt;optimalizovat procesy, automatizovat, vymýšlet, jak jdou věci udělat lépe a víc efektivně&lt;/li&gt;
+  &lt;li&gt;vymýšlet procesy pro deduplikaci dat a obecně zlepšování kvality dat&lt;/li&gt;
+  &lt;li&gt;starat se o infrastrukturu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;co-používáme-za-technologie-a-jak-to-děláme&quot;&gt;Co používáme za technologie a jak to děláme&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PostgreSQL databáze, relační i nerelační přístupy (json data)&lt;/li&gt;
+  &lt;li&gt;Python 3.11, Scrapy, Numpy, Pytorch, Tensorflow, Polars, Seaborn, Jupyter notebook&lt;/li&gt;
+  &lt;li&gt;Airflow&lt;/li&gt;
+  &lt;li&gt;Linux-based servery, Docker, automatizované CI/CD&lt;/li&gt;
+  &lt;li&gt;píšeme unit testy v Pytestu&lt;/li&gt;
+  &lt;li&gt;máme codereview&lt;/li&gt;
+  &lt;li&gt;děláme experimenty, potvrzujeme hypotézy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;čemu-se-chceme-více-věnovat&quot;&gt;Čemu se chceme více věnovat&lt;/h2&gt;
+
+&lt;p&gt;Tohle může být jeden z tvých prvních úkolů, protože my na to teď nemáme kapacitu&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;automatizace částí procesů, kde je stále vyžadován manuální zásah&lt;/li&gt;
+  &lt;li&gt;vytvoření uživatelských nástrojů (admin) pro hromadné úpravy nad produktovým katalogem&lt;/li&gt;
+  &lt;li&gt;zobecnění datového modelu tak, aby lépe pojmul produkty různých typů&lt;/li&gt;
+  &lt;li&gt;proces na stahování obrázků do naší CDN, včetně transformace/normalizace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;co-od-tebe-očekáme&quot;&gt;Co od tebe očekáme&lt;/h2&gt;
+
+&lt;p&gt;Budeš se k nám na tuhle roli hodit jestli&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;máš zkušenosti s podobnou činností, kterou popisujeme výše&lt;/li&gt;
+  &lt;li&gt;jsi vývojář/ka, píšeš v Pythonu, umíš analyzovat problémy, rozdělit je na menší části a přetavit je do kódu/procesu&lt;/li&gt;
+  &lt;li&gt;rozumíš si s (PostgreSQL) databází, umíš navrhovat datové struktury, plynně píšeš SQL&lt;/li&gt;
+  &lt;li&gt;máš analytické myšlení, vidíš kolem sebe příležitosti, jak zlepšit procesy/systémy/obecně fungování věcí&lt;/li&gt;
+  &lt;li&gt;chceš psát čistý, udržovatelný kód a navrhovat systémy tak, aby ti nepadaly za měsíc na hlavu&lt;/li&gt;
+  &lt;li&gt;chceš věci proaktivně zlepšovat&lt;/li&gt;
+  &lt;li&gt;nebojíš se zeptat o pomoc, chceš řešit věci společně v týmu&lt;/li&gt;
+  &lt;li&gt;zvládneš základy linuxu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Očekáváme relativně zkušeného člověka. Je v pohodě nemít jistotu ohledně některé z těchto oblastí, všichni se nějak učíme za pochodu.&lt;/p&gt;
+
+&lt;p&gt;Budeme si rozumět, když vyznáváš podobné hodnoty, jako my:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;otevřenost v komunikaci a k nápadům ostatních&lt;/li&gt;
+  &lt;li&gt;respekt k ostatním&lt;/li&gt;
+  &lt;li&gt;nadšení k práci, která dává smysl&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;co-nabízíme&quot;&gt;Co nabízíme&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;peníze - ne jako garážový startup, ale taky ne jako korporát - chceme tvoji spokojenost (100k+)&lt;/li&gt;
+  &lt;li&gt;volnost - je v pohodě se domluvit na kratším než plném úvazku, na setkávání se v kanclu třeba jen 2-3 x týdně&lt;/li&gt;
+  &lt;li&gt;pomoc - do začátku i s čímkoliv mimo práce&lt;/li&gt;
+  &lt;li&gt;mentoring od lidí, kteří už toho mají hodně za sebou (ex-Dáme jídlo dev tým)&lt;/li&gt;
+  &lt;li&gt;práce bez stresu, nemáme žádné deadlines, všichni to tu máme stejně - nechceme vyhořet :)&lt;/li&gt;
+  &lt;li&gt;pravidelné společné aktivity - v létě kolo, v zimě lezení, deskovky, dvakrát do roka dvoudenní off-site&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jsme v Praze, máme svoji kancelář na Žižkově, kde je pro tebe volný stůl. Kafe a super výhled.
+Remote je fajn, ale chceme tě mít aspoň půlku času tady u sebe, přijde nám to v téhle fázi firmy efektivní.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jestli to s tebou nějak pohnulo, ozvi se!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pošli email se CV na &lt;a href=&quot;mailto:tom.michna@outfindo.com&quot;&gt;ondrej.bouda@outfindo.com&lt;/a&gt; nebo zavolej &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřejovi&lt;/a&gt; rovnou: +420724532118.&lt;/p&gt;</content><author><name>Outfindo</name></author><category term="Jobs" /><summary type="html">TL;DR Potřebujeme pomoct s vývojem našich datových procesů, interních nástrojů a péčí o strukturu našich primárních dat. Nabídneme ti volnost v rozhodování, příležitosti k růstu a podporu našeho týmu. Chceme, abys byl/a zkušený/á v dané oblasti.</summary></entry><entry><title type="html">Data/ETL engineer, Python &amp;amp; SQL, Praha</title><link href="https://outfindo.dev/2023-02-03/data-etl-engineer-python-sql-cz" rel="alternate" type="text/html" title="Data/ETL engineer, Python &amp;amp; SQL, Praha" /><published>2023-02-03T00:00:00+00:00</published><updated>2023-02-03T00:00:00+00:00</updated><id>https://outfindo.dev/2023-02-03/data-etl-engineer-python-sql-cz</id><content type="html" xml:base="https://outfindo.dev/2023-02-03/data-etl-engineer-python-sql-cz">&lt;p&gt;&lt;img src=&quot;/assets/bricks/4.jpg&quot; alt=&quot;Team&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;Potřebujeme pomoct se zpracováváním dat, s naším ETL procesem. Poskytneme ti velkou výzvu, volnost, příležitost a pomoc týmu. Chceme, abys už měl/a něco za sebou a věděl/a zhruba co a jak.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Máme dva lidi, kteří u nás řeší data. Staví ETL pipeline, scrapujou weby, transformujou feedy, obohacují data. Je toho moc a potřebujeme s tím pomoct.&lt;/p&gt;
+
+&lt;p&gt;Přidej se k našemu super &lt;a href=&quot;/team&quot;&gt;týmu&lt;/a&gt;!
+Máme za sebou tři roky startup hackování a teď už rozumně víme, co potřebujeme dál dělat.&lt;/p&gt;
+
+&lt;p&gt;Můžeš to brát jako &lt;strong&gt;příležitost dělat věci po svém a hodně se toho naučit&lt;/strong&gt;. Být součástí (pořád ještě) malého týmu, kde jde hlavně o to vymyslet, jak věci udělat efektivně.
+Pomož nám se dostat dál na naší cestě!&lt;/p&gt;
+
+&lt;h2 id=&quot;co-děláme&quot;&gt;Co děláme&lt;/h2&gt;
+
+&lt;p&gt;Outfindo pomáhá lidem vybrat zboží v online prostředí - třeba kola skrz náš web &lt;strong&gt;&lt;a href=&quot;https://outfindo.cz&quot;&gt;outfindo.cz&lt;/a&gt;&lt;/strong&gt; a jeho mezinárodní varianty, nebo skrz produkty, které jako SaaS prodáváme našim partnerům.
+Umíme spojit potřeby zákazníků a prodjeců a produktová data.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;budujeme produktový katalog z mnoha zdrojů, automatizovaně&lt;/li&gt;
+  &lt;li&gt;obohacujeme data za příspění expertů v oboru tak, aby koncový zákazník nemusel studovat technické parametry&lt;/li&gt;
+  &lt;li&gt;získáváme data o dostupnosti zboží v eshopech a položky matchujeme s naším katalogem&lt;/li&gt;
+  &lt;li&gt;budujeme průvodce, který zákazníka provede výběrem produktu&lt;/li&gt;
+  &lt;li&gt;budujeme náš marketplace a zároveň nástroje, které embedujeme do webů našich partnerů&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Víc o nás třeba i tady:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cc.cz/online-pruvodce-koupi-kola-ma-dalsi-investici-penize-opet-posila-i-nejvyse-postaveny-cech-v-showbyznysu/&quot;&gt;CzechCrunch.cz - Online průvodce koupí kola má další investici. Peníze opět posílá i nejvýše postavený Čech v showbyznysu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forbes.cz/topmanazery-lakaji-kola-kyncl-pousti-do-outfindo-dalsi-miliony-a-inspiruje-ostatni/&quot;&gt;Forbes.cz - Topmanažery lákají kola. Kyncl a další investoři pouští do Outfindo desítky milionů&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;co-budeš-dělat&quot;&gt;Co budeš dělat&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;starat se o ETL pipelines, které zpracovávají produktová data a data a dostupnost produktů na trhu&lt;/li&gt;
+  &lt;li&gt;integrovat různé datové zdroje - přes 200 zdrojů (web scrapy, feedy)&lt;/li&gt;
+  &lt;li&gt;optimalizovat procesy, automatizovat, vymýšlet, jak jdou věci udělat lépe a víc efektivně&lt;/li&gt;
+  &lt;li&gt;starat se o kvalitu dat, hledat chyby, opravovat&lt;/li&gt;
+  &lt;li&gt;deduplikovat data&lt;/li&gt;
+  &lt;li&gt;opravovat spidery a procesy transformující data&lt;/li&gt;
+  &lt;li&gt;starat se o infrastrukturu, potenciálně&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;co-používáme-za-technologie-a-jak-to-děláme&quot;&gt;Co používáme za technologie a jak to děláme&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Python 3.10, Scrapy, Numpy, Pytorch, Jupyter notebook&lt;/li&gt;
+  &lt;li&gt;PostgreSQL databáze, relační i nerelační přístupy (json data)&lt;/li&gt;
+  &lt;li&gt;Airflow&lt;/li&gt;
+  &lt;li&gt;Linux-based servery, Docker, automatizované CI/CD&lt;/li&gt;
+  &lt;li&gt;píšeme testy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;čemu-se-chceme-víc-věnovat&quot;&gt;Čemu se chceme víc věnovat&lt;/h2&gt;
+
+&lt;p&gt;Tohle může být jede z tvých prvních úkolů, protože my na to teď nemáme kapacitu&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;automatizace částí procesů, kde je stále vyžadován manuální zásah&lt;/li&gt;
+  &lt;li&gt;vytvoření uživatelského nástroje (admin) pro hromadné úpravy nad produktovým katalogem&lt;/li&gt;
+  &lt;li&gt;zobecnění datového modelu tak, aby pojmul produkty různých typů&lt;/li&gt;
+  &lt;li&gt;proces na stahování obrázků do naší CDN, včetně transformace/normalizace&lt;/li&gt;
+  &lt;li&gt;klasifikace nových parametrů produktu - ať už z textových dat nebo z obrázků&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;co-od-tebe-čekáme&quot;&gt;Co od tebe čekáme&lt;/h2&gt;
+
+&lt;p&gt;Budeš se k nám hodit jestli&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;máš zkušenosti s podobnou činností, kterou popisujeme výše&lt;/li&gt;
+  &lt;li&gt;píšeš v Pythonu a dobře umíš SQL&lt;/li&gt;
+  &lt;li&gt;máš analytické myšlení, vidíš koleme sebe příležitosti jak zlepšit procesy/systémy/obecně fungování věcí&lt;/li&gt;
+  &lt;li&gt;chceš psát čistý, udržovatelný kód a navrhovat systémy tak, aby ti nepadaly za měsíc na hlavu&lt;/li&gt;
+  &lt;li&gt;chceš věci proaktivně opravovat&lt;/li&gt;
+  &lt;li&gt;se nebojíš zeptat o pomoc, chceš řešit věci společně v týmu&lt;/li&gt;
+  &lt;li&gt;zvládneš nějaké základy linuxu - připojit se na server, kouknout co jak funguje&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Je v pohodě nemít jistotu ohledně některé z těchhle oblastí, všichni se nějak učíme za pochodu.&lt;/p&gt;
+
+&lt;p&gt;Budeme si rozumět, když vyznáváš podobné hodnoty, jako my:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;otevřenost v komunikaci a k nápadům ostatních&lt;/li&gt;
+  &lt;li&gt;respekt k ostatním&lt;/li&gt;
+  &lt;li&gt;nadšení k práci, která dává smysl&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;co-nabízíme&quot;&gt;Co nabízíme&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;peníze - ne jako garážový startup, ale taky ne jako korporát - chceme tvoji spokojenost (60-70k)&lt;/li&gt;
+  &lt;li&gt;volnost - je v pohodě se domluvit na kratším než plném úvazku, na setkávání se v kanclu třeba jen 2 x týdně&lt;/li&gt;
+  &lt;li&gt;pomoc - do začátku i s čímkoliv mimo&lt;/li&gt;
+  &lt;li&gt;mentoring od lidí, kteří už toho mají hodně za sebou (ex-Dáme jídlo dev tým)&lt;/li&gt;
+  &lt;li&gt;práce bez stresu, nemáme žádné deadlines, všichni to tu máme stejně - nechceme vyhořet :)&lt;/li&gt;
+  &lt;li&gt;pravidelné společné aktivity - v létě kolo, v zimě lezení, deskovky, dvakrát do roka dvoudenní off-site&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jsme v Praze, máme svoje kancly na Žižkově, kde je pro tebe volný stůl. Kafe a super výhled.
+Remote je fajn, ale chceme tě mít aspoň půlku času tady u sebe, přijde nám to v téhle fázi firmy efektivní.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jestli to s tebou nějak pohnulo, ozvi se!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pošli email na &lt;a href=&quot;mailto:ondrej.bouda@outfindo.com&quot;&gt;ondrej.bouda@outfindo.com&lt;/a&gt; nebo zavolej &lt;a href=&quot;/team#ondrej&quot;&gt;Ondrovi&lt;/a&gt; napřímo: +420724532118.&lt;/p&gt;</content><author><name>Outfindo</name></author><category term="Jobs" /><summary type="html">TL;DR Potřebujeme pomoct se zpracováváním dat, s naším ETL procesem. Poskytneme ti velkou výzvu, volnost, příležitost a pomoc týmu. Chceme, abys už měl/a něco za sebou a věděl/a zhruba co a jak.</summary></entry><entry><title type="html">Senior backend engineer, PHP &amp;amp; PostgreSQL</title><link href="https://outfindo.dev/2022-01-24/senior-backend-engineer-php" rel="alternate" type="text/html" title="Senior backend engineer, PHP &amp;amp; PostgreSQL" /><published>2022-01-24T00:00:00+00:00</published><updated>2022-01-24T00:00:00+00:00</updated><id>https://outfindo.dev/2022-01-24/senior-backend-engineer-php</id><content type="html" xml:base="https://outfindo.dev/2022-01-24/senior-backend-engineer-php"></content><author><name>Outfindo</name></author><category term="Redirected" /><summary type="html"></summary></entry><entry><title type="html">Backend engineer, PHP</title><link href="https://outfindo.dev/2022-01-20/backend-engineer-php" rel="alternate" type="text/html" title="Backend engineer, PHP" /><published>2022-01-20T00:00:00+00:00</published><updated>2022-01-20T00:00:00+00:00</updated><id>https://outfindo.dev/2022-01-20/backend-engineer-php</id><content type="html" xml:base="https://outfindo.dev/2022-01-20/backend-engineer-php">&lt;p&gt;&lt;img src=&quot;/assets/bricks/1.jpg&quot; alt=&quot;Team&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;We want you to build our PHP/Postgres backend, full-time, probably in Prague. We will get you challenge, opportunity and help. Great team, good money and stock options. You should have experience building backend. Clean code, testing, DDD, CQRS.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;There’s currently only one guy (actually &lt;a href=&quot;/team#ondrej&quot;&gt;me&lt;/a&gt;) doing all the backend work, on top of leading the tech.
+I need a partner!&lt;/p&gt;
+
+&lt;p&gt;Join our awesome &lt;a href=&quot;/team&quot;&gt;team&lt;/a&gt;! We are scaling our engineering right now.
+The infant hacky two years of Outfindo are over, we are reasonably sure about what we need to build now.&lt;/p&gt;
+
+&lt;p&gt;This is an &lt;strong&gt;opportunity to do things the way you want, to learn a lot&lt;/strong&gt;, and to be part of the formative period of our company.
+If you help us to make it, there’s a lot in it for you as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-do&quot;&gt;What we do&lt;/h2&gt;
+
+&lt;p&gt;Outfindo helps people to find the right bike. We know all about a bike (including custom insights) and we know where to buy it. We&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;build a product catalog from various sources, automating the whole process&lt;/li&gt;
+  &lt;li&gt;enhance the data to gain insight using classification based on expert know-how&lt;/li&gt;
+  &lt;li&gt;obtain availability data from shops/eshops and match them with our catalog&lt;/li&gt;
+  &lt;li&gt;build a marketplace where we help customers to find the right bike and to get it&lt;/li&gt;
+  &lt;li&gt;actively research and prototype new and fun ways of assistance for the customer to get product insight&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;See &lt;strong&gt;&lt;a href=&quot;https://outfindo.cz&quot;&gt;outfindo.cz&lt;/a&gt;&lt;/strong&gt; and &lt;a href=&quot;https://outfindo.com&quot;&gt;outfindo.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-will-you-do&quot;&gt;What will you do&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;take care of our backend codebase (15 kloc src, 10 kloc tests)&lt;/li&gt;
+  &lt;li&gt;implement changes to API for frontend features based on well-researched user stories by product manager &lt;a href=&quot;/team#adlo&quot;&gt;Adlo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;work with PostgreSQL database&lt;/li&gt;
+  &lt;li&gt;set up integrations with 3rd party services&lt;/li&gt;
+  &lt;li&gt;participate on product decisions during early phases of dev process - we are not a &lt;a href=&quot;https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory&quot;&gt;feature factory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;pair-program and review code with &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřej&lt;/a&gt; so that you can learn from each other&lt;/li&gt;
+  &lt;li&gt;refactor the code regularly to eliminate tech debt, delete unused code often (so satisfying! :)&lt;/li&gt;
+  &lt;li&gt;ship small changes with feature toggles so that we can deploy continuously&lt;/li&gt;
+  &lt;li&gt;participate on architecture decisions, propose new tech&lt;/li&gt;
+  &lt;li&gt;help set up the infrastructure&lt;/li&gt;
+  &lt;li&gt;participate in team activities - learning sessions, sharing experience, workshops&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-tech-and-practises-do-we-use&quot;&gt;What tech and practises do we use&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PHP 8.1 (readonly properties and enums FTW)&lt;/li&gt;
+  &lt;li&gt;Symfony 6 (but trying to be framework-agnostic)&lt;/li&gt;
+  &lt;li&gt;PHPUnit tests, both unit and integration/database, TDD approach when suitable&lt;/li&gt;
+  &lt;li&gt;static code analysis (PHPStan/Psalm)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/tags/domain%20driven%20design.html&quot;&gt;Domain-driven design&lt;/a&gt;, &lt;a href=&quot;https://martinfowler.com/bliki/CQRS.html&quot;&gt;CQRS&lt;/a&gt;, &lt;a href=&quot;https://martinfowler.com/bliki/ValueObject.html&quot;&gt;Value objects&lt;/a&gt;, &lt;a href=&quot;https://matthiasnoback.nl/2017/07/layers-ports-and-adapters-part-1-introduction/&quot;&gt;Hexagonal architecture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;read (and sometimes write) models using plain SQL instead of Doctrine&lt;/li&gt;
+  &lt;li&gt;PostgreSQL (managed on Digitalocean)&lt;/li&gt;
+  &lt;li&gt;Git, GitHub&lt;/li&gt;
+  &lt;li&gt;Digitalocean for hosting our system&lt;/li&gt;
+  &lt;li&gt;makefiles and shell scripts for task automation&lt;/li&gt;
+  &lt;li&gt;dockerized dev stack&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-we-are-starting-or-planning-to-do&quot;&gt;What we are starting or planning to do&lt;/h2&gt;
+
+&lt;p&gt;These may be one of your first tasks:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;better data models on API, OpenAPI specs&lt;/li&gt;
+  &lt;li&gt;GitHub Actions CI pipeline (not needed for one-man show:)&lt;/li&gt;
+  &lt;li&gt;better monitoring&lt;/li&gt;
+  &lt;li&gt;GraphQL instead of REST-ish API for more data-driven endpoints&lt;/li&gt;
+  &lt;li&gt;Elasticsearch or similar tech for engine that powers our product catalog&lt;/li&gt;
+  &lt;li&gt;messaging, queues for asynchronous task processing&lt;/li&gt;
+  &lt;li&gt;split backend into more independent services (monolith is ok and preferred, but some functionality may need different tech stack)&lt;/li&gt;
+  &lt;li&gt;discoverability, better separation of layers, better error handling&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-do-we-expect-from-you&quot;&gt;What do we expect from you&lt;/h2&gt;
+
+&lt;p&gt;This position will suit you if you&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;have previous backend coding experience with some of your code running in production&lt;/li&gt;
+  &lt;li&gt;see patterns around you, apply your experience to new problems&lt;/li&gt;
+  &lt;li&gt;want your code to be clean, readable and maintainable&lt;/li&gt;
+  &lt;li&gt;think about application architecture - separation of concerns and layers&lt;/li&gt;
+  &lt;li&gt;are able of abstract thinking, can solve problems with code&lt;/li&gt;
+  &lt;li&gt;want to fix things rather than wait for someone else to do it&lt;/li&gt;
+  &lt;li&gt;ask for help if you don’t know what to do - we are ready to help you&lt;/li&gt;
+  &lt;li&gt;are not afraid of infrastructure - setting up services, know your way around Linux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is ok to not be sure about some of these things. We are all learning along the way.&lt;/p&gt;
+
+&lt;p&gt;We will get along if you&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;are open-minded, learning new stuff from others and on your own&lt;/li&gt;
+  &lt;li&gt;respect others’ opinions&lt;/li&gt;
+  &lt;li&gt;care about your work when given the right challenge&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-do-we-offer&quot;&gt;What do we offer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;money - not garage-startup money, not corporate-level money either, but we want you to be comfortable&lt;/li&gt;
+  &lt;li&gt;stock options for you to get what is yours when Outfindo gets successful&lt;/li&gt;
+  &lt;li&gt;all the help we can provide to get you going - let us know&lt;/li&gt;
+  &lt;li&gt;regular mentoring and leadership by &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřej&lt;/a&gt;, can go both ways - we can all learn from each other&lt;/li&gt;
+  &lt;li&gt;stress-free work environment - there are no “crunches”, no time estimates, no hard commitments to deliver changes at certain time&lt;/li&gt;
+  &lt;li&gt;monthly team events - bike in summer, climbing in winter, off-sites&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are based in Prague with office in Vinohrady.
+Remote work is alright, but we prefer to see each other regularly to be effective and have some fun, more so after two years of Covid isolation.
+We have comfy chairs, whiteboard, coffee machine and we love cookies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If this resonates with you let us know. We are ready to help you if you want to work with us.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Write an email to &lt;a href=&quot;mailto:ondrej.bouda@outfindo.com&quot;&gt;ondrej.bouda@outfindo.com&lt;/a&gt; or grab a phone and call &lt;a href=&quot;/team#ondrej&quot;&gt;Ondřej&lt;/a&gt; directly: +420724532118.&lt;/p&gt;</content><author><name>Outfindo</name></author><category term="Jobs" /><summary type="html">TL;DR We want you to build our PHP/Postgres backend, full-time, probably in Prague. We will get you challenge, opportunity and help. Great team, good money and stock options. You should have experience building backend. Clean code, testing, DDD, CQRS.</summary></entry></feed>
