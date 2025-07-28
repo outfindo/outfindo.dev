@@ -23,18 +23,6 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 * [twitter](https://twitter.com/ondrejbouda)
 * [linkedin](https://www.linkedin.com/in/ond%C5%99ej-bouda-66b2b4b2/)
 
-<br id="tomichi">
-![Tomáš Michna](/assets/team/tomichi.jpeg){:style="text-align: left; height:100px; margin: 0"}
-## Tomáš Michna (Tomichi)
-* data scientist and engineer
-* ex-computer vision programmer, ex-Dáme jídlo backend engineer
-* graduated with honors from Computational Mathematics
-* can teach robots to do stuff, and thus teaching our machines should be easy
-* author of our current automated ETL pipelines, scraping tech and ML/CV
-* his mission is to automate everything with a combination of conventional and AI methods
-* [github](https://github.com/Tomichi)
-* [linkedin](https://www.linkedin.com/in/tom%C3%A1%C5%A1-michna-69760290/)
-
 <br id="bajka">
 ![Barbora Profantová](/assets/team/bajka.jpeg){:style="text-align: left; height:100px; margin: 0"}
 ## Barbora Profantová (Bajka)
@@ -52,12 +40,6 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 * builing experimental real-world ML applications
 * [linkedin](https://www.linkedin.com/in/vit-kostejn/)
 
-<br id="david">
-![David Kristín](/assets/team/david.jpeg){:style="text-align: left; height:100px; margin: 0"}
-## David Kristín
-* backend engineer
-* [linkedin](https://www.linkedin.com/in/david-kristin/)
-
 <br id="martin">
 ![Martin Chrz](/assets/team/martin.jpeg){:style="text-align: left; height:100px; margin: 0"}
 ## Martin Chrz
@@ -66,40 +48,6 @@ Creativity, passion, ambition and Outfindo goals drive us forward. We depend on 
 * Matfyz guy, analytical brain
 * author of early Outfindo excel-based prototype and basically all early data-related stuff
 * [linkedin](https://www.linkedin.com/in/martinchrz/)
-
-<br id="adlo">
-![Adam Fendrych](/assets/team/adlo.jpeg){:style="text-align: left; height:100px; margin: 0"}
-## Adam Fendrych (Adlo)
-* product manager
-* ex-Rohlík
-* connects us with real customers
-* does user research, collects feedback and generally does great product work
-* [twitter](https://twitter.com/adlo)
-* [linkedin](https://www.linkedin.com/in/adamfendrych/)
-
-<br id="dominik">
-![Dominik Mazura](/assets/team/dominik.jpeg){:style="text-align: left; height:100px; margin: 0"}
-## Dominik Mazura
-* designer
-* [linkedin](https://www.linkedin.com/in/dominik-mazura-97977196/)
-
-<br id="franta">
-![František Bláha](/assets/team/franta.jpeg){:style="text-align: left; height:100px; margin: 0"}
-## František Bláha
-* frontend engineer
-* ex-Dáme jídlo
-* strong feeling for frontend architecture and clean code
-* built our SPA web from ground up
-* [github](https://github.com/blahafrank)
-* [linkedin](https://www.linkedin.com/in/fbp/)
-
-<br id="ales">
-![Aleš Studený](/assets/team/ales.png){:style="text-align: left; height:100px; margin: 0"}
-## Aleš Studený
-* frontend engineer
-* strong feeling for design and UX
-* coding our customer-facing web apps
-* [linkedin](https://www.linkedin.com/in/theplak/)
 
 <br id="ruda">
 ![Rudolf Matějček](/assets/team/ruda.jpeg){:style="text-align: left; height:100px; margin: 0"}
