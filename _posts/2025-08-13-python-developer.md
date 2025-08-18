@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python developer/ka se zájmem o AI (full-time, kancl Praha)"
+title: "Python developer/ka s přesahem do AI (full-time, kancl Praha)"
 tags: Jobs
 excerpt_separator: <!--more-->
 ---
